@@ -1,0 +1,2373 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-11-09">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="frequency" type="int" />
+    </attributes>
+    <nodes>
+      <node id="accelerator programme" label="accelerator programme">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="aer lingus" label="aer lingus">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="air new zealand" label="air new zealand">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="airline connectivity" label="airline connectivity">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="airline processing" label="airline processing">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="airport dimension" label="airport dimension">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="airport hospitality" label="airport hospitality">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="allegris" label="allegris">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="allways" label="allways">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="amazon web services" label="amazon web services">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="ancillary growth" label="ancillary growth">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="ancillary revenue streams" label="ancillary revenue streams">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="autonomous delivery robot" label="autonomous delivery robot">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="avvinue" label="avvinue">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="b2b" label="b2b">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="b2b apis" label="b2b apis">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="bag handling" label="bag handling">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="bagging" label="bagging">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="beyond" label="beyond">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="bluebox" label="bluebox">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="borderless" label="borderless">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="branchspace" label="branchspace">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="cancellation waivers" label="cancellation waivers">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="car rental" label="car rental">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="case study" label="case study">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="chat" label="chat">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="commercial" label="commercial">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="conference agenda" label="conference agenda">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="connecta" label="connecta">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="contactless collection of duty free" label="contactless collection of duty free">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="content management" label="content management">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="cost reduction" label="cost reduction">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="customer profiling" label="customer profiling">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="customised solutions" label="customised solutions">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="daa" label="daa">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="data roaming" label="data roaming">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="deep learning" label="deep learning">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="delivery centres" label="delivery centres">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="digital commerce" label="digital commerce">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="digital interactive customer experience" label="digital interactive customer experience">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="digital retailing" label="digital retailing">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="duty free shopping" label="duty free shopping">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="dutyfreak" label="dutyfreak">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="dynamic offer strategies" label="dynamic offer strategies">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="eezeetags" label="eezeetags">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="electronic bag tag" label="electronic bag tag">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="emerging technologies" label="emerging technologies">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="end-to-end passenger experience" label="end-to-end passenger experience">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="endava" label="endava">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="ethiopian airlines" label="ethiopian airlines">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="fashion" label="fashion">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="flexiroam" label="flexiroam">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="flight operations" label="flight operations">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="flyr" label="flyr">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="flyr labs" label="flyr labs">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="friction reduction" label="friction reduction">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="fuel efficiency" label="fuel efficiency">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="future factory" label="future factory">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="future intercont experience" label="future intercont experience">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="global markets" label="global markets">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="global travel" label="global travel">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="global travellers" label="global travellers">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="gps-guided tours" label="gps-guided tours">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="hepstar" label="hepstar">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="identity management" label="identity management">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="identity verification" label="identity verification">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="insurtech" label="insurtech">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="integration" label="integration">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="intelligence" label="intelligence">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="internet" label="internet">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="inventory management" label="inventory management">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="jetblue" label="jetblue">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="jetblue airways" label="jetblue airways">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="loyalty programmes" label="loyalty programmes">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="managed data infrastructure" label="managed data infrastructure">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="metahuman cabin crew" label="metahuman cabin crew">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="mixed reality" label="mixed reality">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="mobile commerce" label="mobile commerce">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="mobile computing" label="mobile computing">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="mobile connectivity" label="mobile connectivity">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="mobile enrolment" label="mobile enrolment">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="mobile phone" label="mobile phone">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="mobile shopping" label="mobile shopping">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="narita international airport" label="narita international airport">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="ndc" label="ndc">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="nfticket" label="nfticket">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="non-aeronautical revenue opportunities" label="non-aeronautical revenue opportunities">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="oacis" label="oacis">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </node>
+      <node id="off-airport check-in services" label="off-airport check-in services">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="on-time performance" label="on-time performance">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="option creator" label="option creator">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="otp" label="otp">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="passenger engagement" label="passenger engagement">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="personalised product recommendations" label="personalised product recommendations">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="pet reservation system" label="pet reservation system">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="pet travel" label="pet travel">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="planitas" label="planitas">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="plaza premium lounge" label="plaza premium lounge">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="pnr-level data" label="pnr-level data">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="private networks" label="private networks">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="product relevance" label="product relevance">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="qverse" label="qverse">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="real-time" label="real-time">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="regula" label="regula">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="revenue forecasting" label="revenue forecasting">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="revenue management" label="revenue management">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="rfid" label="rfid">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="saas" label="saas">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="satellite communications" label="satellite communications">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="self bag drop" label="self bag drop">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="self-boarding" label="self-boarding">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="self-serve" label="self-serve">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="shabstec" label="shabstec">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="sherpa" label="sherpa">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="simplevisa" label="simplevisa">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </node>
+      <node id="snowfall" label="snowfall">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="software" label="software">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="tagforlife" label="tagforlife">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="technology integration" label="technology integration">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="technology solutions" label="technology solutions">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </node>
+      <node id="threedot" label="threedot">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="travel agency" label="travel agency">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="travel ancillary products" label="travel ancillary products">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="travel documents" label="travel documents">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="traveltech" label="traveltech">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="travelx" label="travelx">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="tripadmit" label="tripadmit">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="ubizense" label="ubizense">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="verification" label="verification">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="vertical take-off and landing (evtol)" label="vertical take-off and landing (evtol)">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="waste management" label="waste management">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="web services" label="web services">
+        <attvalues>
+          <attvalue for="0" value="10" />
+        </attvalues>
+      </node>
+      <node id="white label" label="white label">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+      <node id="wireless connectivity" label="wireless connectivity">
+        <attvalues>
+          <attvalue for="0" value="7" />
+        </attvalues>
+      </node>
+      <node id="world travel awards" label="world travel awards">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="accelerator programme" target="air new zealand" id="0" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="amazon web services" id="1" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="autonomous delivery robot" id="2" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="digital interactive customer experience" id="3" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="emerging technologies" id="4" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="global travellers" id="5" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="metahuman cabin crew" id="6" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="private networks" id="7" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="qverse" id="8" weight="0.5714285714285714" />
+      <edge source="accelerator programme" target="vertical take-off and landing (evtol)" id="9" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="airline connectivity" id="10" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="airport hospitality" id="11" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="allways" id="12" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="bag handling" id="13" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="bagging" id="14" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="duty free shopping" id="15" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="flight operations" id="16" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="flyr labs" id="17" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="future factory" id="18" weight="0.7777777777777779" />
+      <edge source="aer lingus" target="global markets" id="19" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="jetblue airways" id="20" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="mobile commerce" id="21" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="sherpa" id="22" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="verification" id="23" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="waste management" id="24" weight="0.5714285714285714" />
+      <edge source="aer lingus" target="wireless connectivity" id="25" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="amazon web services" id="26" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="autonomous delivery robot" id="27" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="digital interactive customer experience" id="28" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="emerging technologies" id="29" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="global travellers" id="30" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="metahuman cabin crew" id="31" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="private networks" id="32" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="qverse" id="33" weight="0.5714285714285714" />
+      <edge source="air new zealand" target="vertical take-off and landing (evtol)" id="34" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="airport hospitality" id="35" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="allways" id="36" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="bag handling" id="37" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="bagging" id="38" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="duty free shopping" id="39" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="flight operations" id="40" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="flyr labs" id="41" weight="1.0" />
+      <edge source="airline connectivity" target="global markets" id="42" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="jetblue airways" id="43" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="mobile commerce" id="44" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="revenue management" id="45" weight="0.6363636363636365" />
+      <edge source="airline connectivity" target="sherpa" id="46" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="travelx" id="47" weight="0.7" />
+      <edge source="airline connectivity" target="verification" id="48" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="waste management" id="49" weight="0.5714285714285714" />
+      <edge source="airline connectivity" target="wireless connectivity" id="50" weight="0.5714285714285714" />
+      <edge source="airline processing" target="airport dimension" id="51" weight="0.7777777777777778" />
+      <edge source="airline processing" target="b2b" id="52" weight="0.7000000000000001" />
+      <edge source="airline processing" target="b2b apis" id="53" weight="0.875" />
+      <edge source="airline processing" target="borderless" id="54" weight="0.7000000000000001" />
+      <edge source="airline processing" target="cancellation waivers" id="55" weight="0.875" />
+      <edge source="airline processing" target="car rental" id="56" weight="0.7000000000000001" />
+      <edge source="airline processing" target="commercial" id="57" weight="0.7777777777777778" />
+      <edge source="airline processing" target="connecta" id="58" weight="0.875" />
+      <edge source="airline processing" target="contactless collection of duty free" id="59" weight="0.7000000000000001" />
+      <edge source="airline processing" target="content management" id="60" weight="0.7777777777777778" />
+      <edge source="airline processing" target="customer profiling" id="61" weight="0.875" />
+      <edge source="airline processing" target="deep learning" id="62" weight="0.7000000000000001" />
+      <edge source="airline processing" target="delivery centres" id="63" weight="0.875" />
+      <edge source="airline processing" target="digital commerce" id="64" weight="0.7777777777777778" />
+      <edge source="airline processing" target="dutyfreak" id="65" weight="0.7000000000000001" />
+      <edge source="airline processing" target="dynamic offer strategies" id="66" weight="0.875" />
+      <edge source="airline processing" target="eezeetags" id="67" weight="0.5833333333333334" />
+      <edge source="airline processing" target="endava" id="68" weight="0.875" />
+      <edge source="airline processing" target="flexiroam" id="69" weight="0.7000000000000001" />
+      <edge source="airline processing" target="flyr" id="70" weight="0.7777777777777778" />
+      <edge source="airline processing" target="friction reduction" id="71" weight="0.7777777777777778" />
+      <edge source="airline processing" target="global travel" id="72" weight="0.5833333333333334" />
+      <edge source="airline processing" target="hepstar" id="73" weight="0.875" />
+      <edge source="airline processing" target="insurtech" id="74" weight="0.875" />
+      <edge source="airline processing" target="integration" id="75" weight="0.7000000000000001" />
+      <edge source="airline processing" target="intelligence" id="76" weight="0.5833333333333334" />
+      <edge source="airline processing" target="loyalty programmes" id="77" weight="0.875" />
+      <edge source="airline processing" target="managed data infrastructure" id="78" weight="0.875" />
+      <edge source="airline processing" target="mobile computing" id="79" weight="0.7000000000000001" />
+      <edge source="airline processing" target="mobile connectivity" id="80" weight="0.6363636363636365" />
+      <edge source="airline processing" target="non-aeronautical revenue opportunities" id="81" weight="0.7000000000000001" />
+      <edge source="airline processing" target="oacis" id="82" weight="0.7777777777777778" />
+      <edge source="airline processing" target="off-airport check-in services" id="83" weight="0.875" />
+      <edge source="airline processing" target="option creator" id="84" weight="0.7000000000000001" />
+      <edge source="airline processing" target="personalised product recommendations" id="85" weight="0.875" />
+      <edge source="airline processing" target="pet travel" id="86" weight="0.7000000000000001" />
+      <edge source="airline processing" target="planitas" id="87" weight="0.875" />
+      <edge source="airline processing" target="pnr-level data" id="88" weight="0.875" />
+      <edge source="airline processing" target="product relevance" id="89" weight="0.875" />
+      <edge source="airline processing" target="real-time" id="90" weight="0.6363636363636365" />
+      <edge source="airline processing" target="revenue forecasting" id="91" weight="0.875" />
+      <edge source="airline processing" target="self-serve" id="92" weight="0.7000000000000001" />
+      <edge source="airline processing" target="shabstec" id="93" weight="0.7000000000000001" />
+      <edge source="airline processing" target="simplevisa" id="94" weight="0.6363636363636365" />
+      <edge source="airline processing" target="technology solutions" id="95" weight="0.5833333333333334" />
+      <edge source="airline processing" target="travel agency" id="96" weight="0.875" />
+      <edge source="airline processing" target="travel ancillary products" id="97" weight="0.875" />
+      <edge source="airline processing" target="traveltech" id="98" weight="0.875" />
+      <edge source="airline processing" target="tripadmit" id="99" weight="0.875" />
+      <edge source="airline processing" target="web services" id="100" weight="0.7000000000000001" />
+      <edge source="airline processing" target="white label" id="101" weight="0.875" />
+      <edge source="airline processing" target="world travel awards" id="102" weight="0.875" />
+      <edge source="airport dimension" target="b2b" id="103" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="b2b apis" id="104" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="borderless" id="105" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="cancellation waivers" id="106" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="car rental" id="107" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="commercial" id="108" weight="0.691358024691358" />
+      <edge source="airport dimension" target="connecta" id="109" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="contactless collection of duty free" id="110" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="content management" id="111" weight="0.691358024691358" />
+      <edge source="airport dimension" target="customer profiling" id="112" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="deep learning" id="113" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="delivery centres" id="114" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="digital commerce" id="115" weight="0.691358024691358" />
+      <edge source="airport dimension" target="dutyfreak" id="116" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="dynamic offer strategies" id="117" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="endava" id="118" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="flexiroam" id="119" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="flyr" id="120" weight="0.691358024691358" />
+      <edge source="airport dimension" target="friction reduction" id="121" weight="0.691358024691358" />
+      <edge source="airport dimension" target="hepstar" id="122" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="insurtech" id="123" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="integration" id="124" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="loyalty programmes" id="125" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="managed data infrastructure" id="126" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="mobile computing" id="127" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="mobile connectivity" id="128" weight="0.5656565656565657" />
+      <edge source="airport dimension" target="non-aeronautical revenue opportunities" id="129" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="oacis" id="130" weight="0.691358024691358" />
+      <edge source="airport dimension" target="off-airport check-in services" id="131" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="option creator" id="132" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="personalised product recommendations" id="133" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="pet travel" id="134" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="planitas" id="135" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="pnr-level data" id="136" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="product relevance" id="137" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="real-time" id="138" weight="0.5656565656565657" />
+      <edge source="airport dimension" target="revenue forecasting" id="139" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="self-serve" id="140" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="shabstec" id="141" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="simplevisa" id="142" weight="0.5656565656565657" />
+      <edge source="airport dimension" target="travel agency" id="143" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="travel ancillary products" id="144" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="traveltech" id="145" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="tripadmit" id="146" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="web services" id="147" weight="0.6222222222222222" />
+      <edge source="airport dimension" target="white label" id="148" weight="0.7777777777777778" />
+      <edge source="airport dimension" target="world travel awards" id="149" weight="0.7777777777777778" />
+      <edge source="airport hospitality" target="allways" id="150" weight="0.8571428571428572" />
+      <edge source="airport hospitality" target="bag handling" id="151" weight="0.8571428571428572" />
+      <edge source="airport hospitality" target="bagging" id="152" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="deep learning" id="153" weight="0.6000000000000001" />
+      <edge source="airport hospitality" target="duty free shopping" id="154" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="flight operations" id="155" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="flyr labs" id="156" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="global markets" id="157" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="jetblue airways" id="158" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="mobile commerce" id="159" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="mobile computing" id="160" weight="0.6000000000000001" />
+      <edge source="airport hospitality" target="plaza premium lounge" id="161" weight="0.6000000000000001" />
+      <edge source="airport hospitality" target="saas" id="162" weight="0.75" />
+      <edge source="airport hospitality" target="self-boarding" id="163" weight="0.75" />
+      <edge source="airport hospitality" target="sherpa" id="164" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="travelx" id="165" weight="0.6000000000000001" />
+      <edge source="airport hospitality" target="verification" id="166" weight="0.5714285714285714" />
+      <edge source="airport hospitality" target="waste management" id="167" weight="0.8571428571428572" />
+      <edge source="airport hospitality" target="web services" id="168" weight="0.6000000000000001" />
+      <edge source="airport hospitality" target="wireless connectivity" id="169" weight="0.5714285714285714" />
+      <edge source="allegris" target="beyond" id="170" weight="0.5714285714285714" />
+      <edge source="allegris" target="case study" id="171" weight="0.875" />
+      <edge source="allegris" target="chat" id="172" weight="0.5714285714285714" />
+      <edge source="allegris" target="data roaming" id="173" weight="0.5714285714285714" />
+      <edge source="allegris" target="fashion" id="174" weight="0.5714285714285714" />
+      <edge source="allegris" target="future intercont experience" id="175" weight="1.0" />
+      <edge source="allegris" target="gps-guided tours" id="176" weight="0.7142857142857143" />
+      <edge source="allegris" target="internet" id="177" weight="0.5714285714285714" />
+      <edge source="allegris" target="mixed reality" id="178" weight="1.0" />
+      <edge source="allegris" target="passenger engagement" id="179" weight="0.5714285714285714" />
+      <edge source="allways" target="bag handling" id="180" weight="0.8571428571428572" />
+      <edge source="allways" target="bagging" id="181" weight="0.5714285714285714" />
+      <edge source="allways" target="deep learning" id="182" weight="0.6000000000000001" />
+      <edge source="allways" target="duty free shopping" id="183" weight="0.5714285714285714" />
+      <edge source="allways" target="flight operations" id="184" weight="0.5714285714285714" />
+      <edge source="allways" target="flyr labs" id="185" weight="0.5714285714285714" />
+      <edge source="allways" target="global markets" id="186" weight="0.5714285714285714" />
+      <edge source="allways" target="jetblue airways" id="187" weight="0.5714285714285714" />
+      <edge source="allways" target="mobile commerce" id="188" weight="0.5714285714285714" />
+      <edge source="allways" target="mobile computing" id="189" weight="0.6000000000000001" />
+      <edge source="allways" target="plaza premium lounge" id="190" weight="0.6000000000000001" />
+      <edge source="allways" target="saas" id="191" weight="0.75" />
+      <edge source="allways" target="self-boarding" id="192" weight="0.75" />
+      <edge source="allways" target="sherpa" id="193" weight="0.5714285714285714" />
+      <edge source="allways" target="travelx" id="194" weight="0.6000000000000001" />
+      <edge source="allways" target="verification" id="195" weight="0.5714285714285714" />
+      <edge source="allways" target="waste management" id="196" weight="0.8571428571428572" />
+      <edge source="allways" target="web services" id="197" weight="0.6000000000000001" />
+      <edge source="allways" target="wireless connectivity" id="198" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="autonomous delivery robot" id="199" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="digital interactive customer experience" id="200" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="emerging technologies" id="201" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="global travellers" id="202" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="metahuman cabin crew" id="203" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="narita international airport" id="204" weight="0.75" />
+      <edge source="amazon web services" target="private networks" id="205" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="qverse" id="206" weight="0.5714285714285714" />
+      <edge source="amazon web services" target="vertical take-off and landing (evtol)" id="207" weight="0.5714285714285714" />
+      <edge source="ancillary growth" target="daa" id="208" weight="0.6000000000000001" />
+      <edge source="ancillary revenue streams" target="cost reduction" id="209" weight="0.765625" />
+      <edge source="ancillary revenue streams" target="simplevisa" id="210" weight="0.5568181818181819" />
+      <edge source="autonomous delivery robot" target="digital interactive customer experience" id="211" weight="0.5714285714285714" />
+      <edge source="autonomous delivery robot" target="emerging technologies" id="212" weight="0.5714285714285714" />
+      <edge source="autonomous delivery robot" target="global travellers" id="213" weight="0.5714285714285714" />
+      <edge source="autonomous delivery robot" target="metahuman cabin crew" id="214" weight="0.5714285714285714" />
+      <edge source="autonomous delivery robot" target="private networks" id="215" weight="0.5714285714285714" />
+      <edge source="autonomous delivery robot" target="qverse" id="216" weight="0.5714285714285714" />
+      <edge source="autonomous delivery robot" target="vertical take-off and landing (evtol)" id="217" weight="0.5714285714285714" />
+      <edge source="avvinue" target="bagging" id="218" weight="0.75" />
+      <edge source="avvinue" target="customised solutions" id="219" weight="0.65625" />
+      <edge source="avvinue" target="eezeetags" id="220" weight="0.5833333333333334" />
+      <edge source="avvinue" target="electronic bag tag" id="221" weight="0.7777777777777778" />
+      <edge source="avvinue" target="inventory management" id="222" weight="0.6363636363636365" />
+      <edge source="avvinue" target="mobile shopping" id="223" weight="0.65625" />
+      <edge source="avvinue" target="otp" id="224" weight="0.875" />
+      <edge source="avvinue" target="pet reservation system" id="225" weight="0.875" />
+      <edge source="avvinue" target="regula" id="226" weight="0.875" />
+      <edge source="avvinue" target="rfid" id="227" weight="0.6363636363636365" />
+      <edge source="avvinue" target="saas" id="228" weight="0.65625" />
+      <edge source="avvinue" target="satellite communications" id="229" weight="0.875" />
+      <edge source="avvinue" target="self-boarding" id="230" weight="0.65625" />
+      <edge source="avvinue" target="sherpa" id="231" weight="0.75" />
+      <edge source="avvinue" target="snowfall" id="232" weight="0.875" />
+      <edge source="avvinue" target="technology solutions" id="233" weight="0.5833333333333334" />
+      <edge source="avvinue" target="ubizense" id="234" weight="0.65625" />
+      <edge source="avvinue" target="wireless connectivity" id="235" weight="0.75" />
+      <edge source="b2b" target="b2b apis" id="236" weight="0.7000000000000001" />
+      <edge source="b2b" target="borderless" id="237" weight="0.56" />
+      <edge source="b2b" target="cancellation waivers" id="238" weight="0.7000000000000001" />
+      <edge source="b2b" target="car rental" id="239" weight="0.56" />
+      <edge source="b2b" target="commercial" id="240" weight="0.6222222222222222" />
+      <edge source="b2b" target="connecta" id="241" weight="0.7000000000000001" />
+      <edge source="b2b" target="contactless collection of duty free" id="242" weight="0.7000000000000001" />
+      <edge source="b2b" target="content management" id="243" weight="0.6222222222222222" />
+      <edge source="b2b" target="customer profiling" id="244" weight="0.7000000000000001" />
+      <edge source="b2b" target="deep learning" id="245" weight="0.56" />
+      <edge source="b2b" target="delivery centres" id="246" weight="0.7000000000000001" />
+      <edge source="b2b" target="digital commerce" id="247" weight="0.6222222222222222" />
+      <edge source="b2b" target="dutyfreak" id="248" weight="0.56" />
+      <edge source="b2b" target="dynamic offer strategies" id="249" weight="0.7000000000000001" />
+      <edge source="b2b" target="eezeetags" id="250" weight="0.5833333333333335" />
+      <edge source="b2b" target="endava" id="251" weight="0.7000000000000001" />
+      <edge source="b2b" target="flexiroam" id="252" weight="0.56" />
+      <edge source="b2b" target="flyr" id="253" weight="0.6222222222222222" />
+      <edge source="b2b" target="friction reduction" id="254" weight="0.6222222222222222" />
+      <edge source="b2b" target="hepstar" id="255" weight="0.7000000000000001" />
+      <edge source="b2b" target="insurtech" id="256" weight="0.7000000000000001" />
+      <edge source="b2b" target="integration" id="257" weight="0.56" />
+      <edge source="b2b" target="loyalty programmes" id="258" weight="0.7000000000000001" />
+      <edge source="b2b" target="managed data infrastructure" id="259" weight="0.7000000000000001" />
+      <edge source="b2b" target="mobile computing" id="260" weight="0.56" />
+      <edge source="b2b" target="non-aeronautical revenue opportunities" id="261" weight="0.7000000000000001" />
+      <edge source="b2b" target="oacis" id="262" weight="0.6222222222222222" />
+      <edge source="b2b" target="off-airport check-in services" id="263" weight="0.7000000000000001" />
+      <edge source="b2b" target="option creator" id="264" weight="0.56" />
+      <edge source="b2b" target="personalised product recommendations" id="265" weight="0.7000000000000001" />
+      <edge source="b2b" target="pet travel" id="266" weight="0.56" />
+      <edge source="b2b" target="planitas" id="267" weight="0.7000000000000001" />
+      <edge source="b2b" target="pnr-level data" id="268" weight="0.7000000000000001" />
+      <edge source="b2b" target="product relevance" id="269" weight="0.7000000000000001" />
+      <edge source="b2b" target="revenue forecasting" id="270" weight="0.7000000000000001" />
+      <edge source="b2b" target="self-serve" id="271" weight="0.56" />
+      <edge source="b2b" target="shabstec" id="272" weight="0.7000000000000001" />
+      <edge source="b2b" target="technology solutions" id="273" weight="0.5833333333333335" />
+      <edge source="b2b" target="travel agency" id="274" weight="0.7000000000000001" />
+      <edge source="b2b" target="travel ancillary products" id="275" weight="0.7000000000000001" />
+      <edge source="b2b" target="traveltech" id="276" weight="0.7000000000000001" />
+      <edge source="b2b" target="tripadmit" id="277" weight="0.7000000000000001" />
+      <edge source="b2b" target="web services" id="278" weight="0.56" />
+      <edge source="b2b" target="white label" id="279" weight="0.7000000000000001" />
+      <edge source="b2b" target="world travel awards" id="280" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="borderless" id="281" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="cancellation waivers" id="282" weight="0.875" />
+      <edge source="b2b apis" target="car rental" id="283" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="commercial" id="284" weight="0.7777777777777778" />
+      <edge source="b2b apis" target="connecta" id="285" weight="0.875" />
+      <edge source="b2b apis" target="contactless collection of duty free" id="286" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="content management" id="287" weight="0.7777777777777778" />
+      <edge source="b2b apis" target="customer profiling" id="288" weight="0.875" />
+      <edge source="b2b apis" target="deep learning" id="289" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="delivery centres" id="290" weight="0.875" />
+      <edge source="b2b apis" target="digital commerce" id="291" weight="0.7777777777777778" />
+      <edge source="b2b apis" target="dutyfreak" id="292" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="dynamic offer strategies" id="293" weight="0.875" />
+      <edge source="b2b apis" target="eezeetags" id="294" weight="0.5833333333333334" />
+      <edge source="b2b apis" target="endava" id="295" weight="0.875" />
+      <edge source="b2b apis" target="flexiroam" id="296" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="flyr" id="297" weight="0.7777777777777778" />
+      <edge source="b2b apis" target="friction reduction" id="298" weight="0.7777777777777778" />
+      <edge source="b2b apis" target="global travel" id="299" weight="0.5833333333333334" />
+      <edge source="b2b apis" target="hepstar" id="300" weight="0.875" />
+      <edge source="b2b apis" target="insurtech" id="301" weight="0.875" />
+      <edge source="b2b apis" target="integration" id="302" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="intelligence" id="303" weight="0.5833333333333334" />
+      <edge source="b2b apis" target="loyalty programmes" id="304" weight="0.875" />
+      <edge source="b2b apis" target="managed data infrastructure" id="305" weight="0.875" />
+      <edge source="b2b apis" target="mobile computing" id="306" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="mobile connectivity" id="307" weight="0.6363636363636365" />
+      <edge source="b2b apis" target="non-aeronautical revenue opportunities" id="308" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="oacis" id="309" weight="0.7777777777777778" />
+      <edge source="b2b apis" target="off-airport check-in services" id="310" weight="0.875" />
+      <edge source="b2b apis" target="option creator" id="311" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="personalised product recommendations" id="312" weight="0.875" />
+      <edge source="b2b apis" target="pet travel" id="313" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="planitas" id="314" weight="0.875" />
+      <edge source="b2b apis" target="pnr-level data" id="315" weight="0.875" />
+      <edge source="b2b apis" target="product relevance" id="316" weight="0.875" />
+      <edge source="b2b apis" target="real-time" id="317" weight="0.6363636363636365" />
+      <edge source="b2b apis" target="revenue forecasting" id="318" weight="0.875" />
+      <edge source="b2b apis" target="self-serve" id="319" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="shabstec" id="320" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="simplevisa" id="321" weight="0.6363636363636365" />
+      <edge source="b2b apis" target="technology solutions" id="322" weight="0.5833333333333334" />
+      <edge source="b2b apis" target="travel agency" id="323" weight="0.875" />
+      <edge source="b2b apis" target="travel ancillary products" id="324" weight="0.875" />
+      <edge source="b2b apis" target="traveltech" id="325" weight="0.875" />
+      <edge source="b2b apis" target="tripadmit" id="326" weight="0.875" />
+      <edge source="b2b apis" target="web services" id="327" weight="0.7000000000000001" />
+      <edge source="b2b apis" target="white label" id="328" weight="0.875" />
+      <edge source="b2b apis" target="world travel awards" id="329" weight="0.875" />
+      <edge source="bag handling" target="bagging" id="330" weight="0.5714285714285714" />
+      <edge source="bag handling" target="deep learning" id="331" weight="0.6000000000000001" />
+      <edge source="bag handling" target="duty free shopping" id="332" weight="0.5714285714285714" />
+      <edge source="bag handling" target="flight operations" id="333" weight="0.5714285714285714" />
+      <edge source="bag handling" target="flyr labs" id="334" weight="0.5714285714285714" />
+      <edge source="bag handling" target="global markets" id="335" weight="0.5714285714285714" />
+      <edge source="bag handling" target="jetblue airways" id="336" weight="0.5714285714285714" />
+      <edge source="bag handling" target="mobile commerce" id="337" weight="0.5714285714285714" />
+      <edge source="bag handling" target="mobile computing" id="338" weight="0.6000000000000001" />
+      <edge source="bag handling" target="mobile shopping" id="339" weight="0.625" />
+      <edge source="bag handling" target="plaza premium lounge" id="340" weight="0.6000000000000001" />
+      <edge source="bag handling" target="saas" id="341" weight="0.75" />
+      <edge source="bag handling" target="self-boarding" id="342" weight="0.75" />
+      <edge source="bag handling" target="sherpa" id="343" weight="0.5714285714285714" />
+      <edge source="bag handling" target="travelx" id="344" weight="0.6000000000000001" />
+      <edge source="bag handling" target="verification" id="345" weight="0.5714285714285714" />
+      <edge source="bag handling" target="waste management" id="346" weight="0.8571428571428572" />
+      <edge source="bag handling" target="web services" id="347" weight="0.6000000000000001" />
+      <edge source="bag handling" target="wireless connectivity" id="348" weight="0.5714285714285714" />
+      <edge source="bagging" target="customised solutions" id="349" weight="0.75" />
+      <edge source="bagging" target="duty free shopping" id="350" weight="0.5714285714285714" />
+      <edge source="bagging" target="dutyfreak" id="351" weight="0.6000000000000001" />
+      <edge source="bagging" target="electronic bag tag" id="352" weight="0.7777777777777779" />
+      <edge source="bagging" target="flight operations" id="353" weight="0.5714285714285714" />
+      <edge source="bagging" target="flyr labs" id="354" weight="0.5714285714285714" />
+      <edge source="bagging" target="global markets" id="355" weight="0.5714285714285714" />
+      <edge source="bagging" target="jetblue airways" id="356" weight="0.5714285714285714" />
+      <edge source="bagging" target="mobile commerce" id="357" weight="0.5714285714285714" />
+      <edge source="bagging" target="mobile shopping" id="358" weight="0.75" />
+      <edge source="bagging" target="option creator" id="359" weight="0.6000000000000001" />
+      <edge source="bagging" target="otp" id="360" weight="0.75" />
+      <edge source="bagging" target="pet reservation system" id="361" weight="0.75" />
+      <edge source="bagging" target="pet travel" id="362" weight="0.6000000000000001" />
+      <edge source="bagging" target="regula" id="363" weight="0.75" />
+      <edge source="bagging" target="satellite communications" id="364" weight="0.75" />
+      <edge source="bagging" target="self-boarding" id="365" weight="0.75" />
+      <edge source="bagging" target="self-serve" id="366" weight="0.6000000000000001" />
+      <edge source="bagging" target="sherpa" id="367" weight="0.8571428571428572" />
+      <edge source="bagging" target="snowfall" id="368" weight="0.75" />
+      <edge source="bagging" target="verification" id="369" weight="0.5714285714285714" />
+      <edge source="bagging" target="waste management" id="370" weight="0.5714285714285714" />
+      <edge source="bagging" target="wireless connectivity" id="371" weight="0.8571428571428572" />
+      <edge source="beyond" target="branchspace" id="372" weight="0.7" />
+      <edge source="beyond" target="chat" id="373" weight="0.5714285714285714" />
+      <edge source="beyond" target="data roaming" id="374" weight="0.5714285714285714" />
+      <edge source="beyond" target="end-to-end passenger experience" id="375" weight="0.6363636363636365" />
+      <edge source="beyond" target="fashion" id="376" weight="0.5714285714285714" />
+      <edge source="beyond" target="future intercont experience" id="377" weight="0.5714285714285714" />
+      <edge source="beyond" target="gps-guided tours" id="378" weight="0.5714285714285714" />
+      <edge source="beyond" target="internet" id="379" weight="0.5714285714285714" />
+      <edge source="beyond" target="mixed reality" id="380" weight="0.5714285714285714" />
+      <edge source="beyond" target="ndc" id="381" weight="0.7" />
+      <edge source="beyond" target="nfticket" id="382" weight="0.875" />
+      <edge source="beyond" target="passenger engagement" id="383" weight="0.5714285714285714" />
+      <edge source="bluebox" target="mobile commerce" id="384" weight="0.6666666666666666" />
+      <edge source="borderless" target="cancellation waivers" id="385" weight="0.7000000000000001" />
+      <edge source="borderless" target="car rental" id="386" weight="0.56" />
+      <edge source="borderless" target="commercial" id="387" weight="0.6222222222222222" />
+      <edge source="borderless" target="connecta" id="388" weight="0.7000000000000001" />
+      <edge source="borderless" target="contactless collection of duty free" id="389" weight="0.56" />
+      <edge source="borderless" target="content management" id="390" weight="0.6222222222222222" />
+      <edge source="borderless" target="customer profiling" id="391" weight="0.7000000000000001" />
+      <edge source="borderless" target="data roaming" id="392" weight="0.6000000000000001" />
+      <edge source="borderless" target="deep learning" id="393" weight="0.56" />
+      <edge source="borderless" target="delivery centres" id="394" weight="0.7000000000000001" />
+      <edge source="borderless" target="digital commerce" id="395" weight="0.6222222222222222" />
+      <edge source="borderless" target="dutyfreak" id="396" weight="0.56" />
+      <edge source="borderless" target="dynamic offer strategies" id="397" weight="0.7000000000000001" />
+      <edge source="borderless" target="endava" id="398" weight="0.7000000000000001" />
+      <edge source="borderless" target="flexiroam" id="399" weight="0.7000000000000001" />
+      <edge source="borderless" target="flyr" id="400" weight="0.6222222222222222" />
+      <edge source="borderless" target="friction reduction" id="401" weight="0.6222222222222222" />
+      <edge source="borderless" target="hepstar" id="402" weight="0.7000000000000001" />
+      <edge source="borderless" target="insurtech" id="403" weight="0.7000000000000001" />
+      <edge source="borderless" target="integration" id="404" weight="0.56" />
+      <edge source="borderless" target="loyalty programmes" id="405" weight="0.7000000000000001" />
+      <edge source="borderless" target="managed data infrastructure" id="406" weight="0.7000000000000001" />
+      <edge source="borderless" target="mobile computing" id="407" weight="0.56" />
+      <edge source="borderless" target="mobile connectivity" id="408" weight="0.6363636363636365" />
+      <edge source="borderless" target="non-aeronautical revenue opportunities" id="409" weight="0.56" />
+      <edge source="borderless" target="oacis" id="410" weight="0.6222222222222222" />
+      <edge source="borderless" target="off-airport check-in services" id="411" weight="0.7000000000000001" />
+      <edge source="borderless" target="option creator" id="412" weight="0.56" />
+      <edge source="borderless" target="personalised product recommendations" id="413" weight="0.7000000000000001" />
+      <edge source="borderless" target="pet travel" id="414" weight="0.56" />
+      <edge source="borderless" target="planitas" id="415" weight="0.7000000000000001" />
+      <edge source="borderless" target="pnr-level data" id="416" weight="0.7000000000000001" />
+      <edge source="borderless" target="product relevance" id="417" weight="0.7000000000000001" />
+      <edge source="borderless" target="revenue forecasting" id="418" weight="0.7000000000000001" />
+      <edge source="borderless" target="self-serve" id="419" weight="0.56" />
+      <edge source="borderless" target="shabstec" id="420" weight="0.56" />
+      <edge source="borderless" target="travel agency" id="421" weight="0.7000000000000001" />
+      <edge source="borderless" target="travel ancillary products" id="422" weight="0.7000000000000001" />
+      <edge source="borderless" target="traveltech" id="423" weight="0.7000000000000001" />
+      <edge source="borderless" target="tripadmit" id="424" weight="0.7000000000000001" />
+      <edge source="borderless" target="web services" id="425" weight="0.56" />
+      <edge source="borderless" target="white label" id="426" weight="0.7000000000000001" />
+      <edge source="borderless" target="world travel awards" id="427" weight="0.7000000000000001" />
+      <edge source="branchspace" target="conference agenda" id="428" weight="0.6000000000000001" />
+      <edge source="branchspace" target="ethiopian airlines" id="429" weight="0.6000000000000001" />
+      <edge source="branchspace" target="nfticket" id="430" weight="0.6125" />
+      <edge source="cancellation waivers" target="car rental" id="431" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="commercial" id="432" weight="0.7777777777777778" />
+      <edge source="cancellation waivers" target="connecta" id="433" weight="0.875" />
+      <edge source="cancellation waivers" target="contactless collection of duty free" id="434" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="content management" id="435" weight="0.7777777777777778" />
+      <edge source="cancellation waivers" target="customer profiling" id="436" weight="0.875" />
+      <edge source="cancellation waivers" target="deep learning" id="437" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="delivery centres" id="438" weight="0.875" />
+      <edge source="cancellation waivers" target="digital commerce" id="439" weight="0.7777777777777778" />
+      <edge source="cancellation waivers" target="dutyfreak" id="440" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="dynamic offer strategies" id="441" weight="0.875" />
+      <edge source="cancellation waivers" target="eezeetags" id="442" weight="0.5833333333333334" />
+      <edge source="cancellation waivers" target="endava" id="443" weight="0.875" />
+      <edge source="cancellation waivers" target="flexiroam" id="444" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="flyr" id="445" weight="0.7777777777777778" />
+      <edge source="cancellation waivers" target="friction reduction" id="446" weight="0.7777777777777778" />
+      <edge source="cancellation waivers" target="global travel" id="447" weight="0.5833333333333334" />
+      <edge source="cancellation waivers" target="hepstar" id="448" weight="0.875" />
+      <edge source="cancellation waivers" target="insurtech" id="449" weight="0.875" />
+      <edge source="cancellation waivers" target="integration" id="450" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="intelligence" id="451" weight="0.5833333333333334" />
+      <edge source="cancellation waivers" target="loyalty programmes" id="452" weight="0.875" />
+      <edge source="cancellation waivers" target="managed data infrastructure" id="453" weight="0.875" />
+      <edge source="cancellation waivers" target="mobile computing" id="454" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="mobile connectivity" id="455" weight="0.6363636363636365" />
+      <edge source="cancellation waivers" target="non-aeronautical revenue opportunities" id="456" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="oacis" id="457" weight="0.7777777777777778" />
+      <edge source="cancellation waivers" target="off-airport check-in services" id="458" weight="0.875" />
+      <edge source="cancellation waivers" target="option creator" id="459" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="personalised product recommendations" id="460" weight="0.875" />
+      <edge source="cancellation waivers" target="pet travel" id="461" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="planitas" id="462" weight="0.875" />
+      <edge source="cancellation waivers" target="pnr-level data" id="463" weight="0.875" />
+      <edge source="cancellation waivers" target="product relevance" id="464" weight="0.875" />
+      <edge source="cancellation waivers" target="real-time" id="465" weight="0.6363636363636365" />
+      <edge source="cancellation waivers" target="revenue forecasting" id="466" weight="0.875" />
+      <edge source="cancellation waivers" target="self-serve" id="467" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="shabstec" id="468" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="simplevisa" id="469" weight="0.6363636363636365" />
+      <edge source="cancellation waivers" target="technology solutions" id="470" weight="0.5833333333333334" />
+      <edge source="cancellation waivers" target="travel agency" id="471" weight="0.875" />
+      <edge source="cancellation waivers" target="travel ancillary products" id="472" weight="0.875" />
+      <edge source="cancellation waivers" target="traveltech" id="473" weight="0.875" />
+      <edge source="cancellation waivers" target="tripadmit" id="474" weight="0.875" />
+      <edge source="cancellation waivers" target="web services" id="475" weight="0.7000000000000001" />
+      <edge source="cancellation waivers" target="white label" id="476" weight="0.875" />
+      <edge source="cancellation waivers" target="world travel awards" id="477" weight="0.875" />
+      <edge source="car rental" target="commercial" id="478" weight="0.6222222222222222" />
+      <edge source="car rental" target="connecta" id="479" weight="0.7000000000000001" />
+      <edge source="car rental" target="contactless collection of duty free" id="480" weight="0.56" />
+      <edge source="car rental" target="content management" id="481" weight="0.6222222222222222" />
+      <edge source="car rental" target="customer profiling" id="482" weight="0.7000000000000001" />
+      <edge source="car rental" target="deep learning" id="483" weight="0.56" />
+      <edge source="car rental" target="delivery centres" id="484" weight="0.7000000000000001" />
+      <edge source="car rental" target="digital commerce" id="485" weight="0.6222222222222222" />
+      <edge source="car rental" target="dutyfreak" id="486" weight="0.56" />
+      <edge source="car rental" target="dynamic offer strategies" id="487" weight="0.7000000000000001" />
+      <edge source="car rental" target="endava" id="488" weight="0.7000000000000001" />
+      <edge source="car rental" target="flexiroam" id="489" weight="0.56" />
+      <edge source="car rental" target="flyr" id="490" weight="0.6222222222222222" />
+      <edge source="car rental" target="friction reduction" id="491" weight="0.6222222222222222" />
+      <edge source="car rental" target="hepstar" id="492" weight="0.7000000000000001" />
+      <edge source="car rental" target="insurtech" id="493" weight="0.7000000000000001" />
+      <edge source="car rental" target="integration" id="494" weight="0.56" />
+      <edge source="car rental" target="loyalty programmes" id="495" weight="0.7000000000000001" />
+      <edge source="car rental" target="managed data infrastructure" id="496" weight="0.7000000000000001" />
+      <edge source="car rental" target="mobile computing" id="497" weight="0.56" />
+      <edge source="car rental" target="non-aeronautical revenue opportunities" id="498" weight="0.56" />
+      <edge source="car rental" target="oacis" id="499" weight="0.6222222222222222" />
+      <edge source="car rental" target="off-airport check-in services" id="500" weight="0.7000000000000001" />
+      <edge source="car rental" target="option creator" id="501" weight="0.56" />
+      <edge source="car rental" target="personalised product recommendations" id="502" weight="0.7000000000000001" />
+      <edge source="car rental" target="pet travel" id="503" weight="0.56" />
+      <edge source="car rental" target="planitas" id="504" weight="0.7000000000000001" />
+      <edge source="car rental" target="pnr-level data" id="505" weight="0.7000000000000001" />
+      <edge source="car rental" target="product relevance" id="506" weight="0.7000000000000001" />
+      <edge source="car rental" target="revenue forecasting" id="507" weight="0.7000000000000001" />
+      <edge source="car rental" target="self-serve" id="508" weight="0.56" />
+      <edge source="car rental" target="shabstec" id="509" weight="0.56" />
+      <edge source="car rental" target="travel agency" id="510" weight="0.7000000000000001" />
+      <edge source="car rental" target="travel ancillary products" id="511" weight="0.7000000000000001" />
+      <edge source="car rental" target="traveltech" id="512" weight="0.7000000000000001" />
+      <edge source="car rental" target="tripadmit" id="513" weight="0.7000000000000001" />
+      <edge source="car rental" target="web services" id="514" weight="0.56" />
+      <edge source="car rental" target="white label" id="515" weight="0.7000000000000001" />
+      <edge source="car rental" target="world travel awards" id="516" weight="0.7000000000000001" />
+      <edge source="case study" target="future intercont experience" id="517" weight="0.875" />
+      <edge source="case study" target="gps-guided tours" id="518" weight="0.625" />
+      <edge source="case study" target="mixed reality" id="519" weight="0.875" />
+      <edge source="chat" target="data roaming" id="520" weight="0.5714285714285714" />
+      <edge source="chat" target="fashion" id="521" weight="0.5714285714285714" />
+      <edge source="chat" target="future intercont experience" id="522" weight="0.5714285714285714" />
+      <edge source="chat" target="gps-guided tours" id="523" weight="0.5714285714285714" />
+      <edge source="chat" target="internet" id="524" weight="0.5714285714285714" />
+      <edge source="chat" target="mixed reality" id="525" weight="0.5714285714285714" />
+      <edge source="chat" target="passenger engagement" id="526" weight="0.5714285714285714" />
+      <edge source="commercial" target="connecta" id="527" weight="0.7777777777777778" />
+      <edge source="commercial" target="contactless collection of duty free" id="528" weight="0.6222222222222222" />
+      <edge source="commercial" target="content management" id="529" weight="0.691358024691358" />
+      <edge source="commercial" target="customer profiling" id="530" weight="0.7777777777777778" />
+      <edge source="commercial" target="data roaming" id="531" weight="0.5555555555555556" />
+      <edge source="commercial" target="deep learning" id="532" weight="0.6222222222222222" />
+      <edge source="commercial" target="delivery centres" id="533" weight="0.7777777777777778" />
+      <edge source="commercial" target="digital commerce" id="534" weight="0.691358024691358" />
+      <edge source="commercial" target="dutyfreak" id="535" weight="0.6222222222222222" />
+      <edge source="commercial" target="dynamic offer strategies" id="536" weight="0.7777777777777778" />
+      <edge source="commercial" target="endava" id="537" weight="0.7777777777777778" />
+      <edge source="commercial" target="flexiroam" id="538" weight="0.6222222222222222" />
+      <edge source="commercial" target="flyr" id="539" weight="0.691358024691358" />
+      <edge source="commercial" target="friction reduction" id="540" weight="0.691358024691358" />
+      <edge source="commercial" target="hepstar" id="541" weight="0.7777777777777778" />
+      <edge source="commercial" target="insurtech" id="542" weight="0.7777777777777778" />
+      <edge source="commercial" target="integration" id="543" weight="0.6222222222222222" />
+      <edge source="commercial" target="loyalty programmes" id="544" weight="0.7777777777777778" />
+      <edge source="commercial" target="managed data infrastructure" id="545" weight="0.7777777777777778" />
+      <edge source="commercial" target="mobile computing" id="546" weight="0.6222222222222222" />
+      <edge source="commercial" target="mobile connectivity" id="547" weight="0.5656565656565657" />
+      <edge source="commercial" target="non-aeronautical revenue opportunities" id="548" weight="0.6222222222222222" />
+      <edge source="commercial" target="oacis" id="549" weight="0.691358024691358" />
+      <edge source="commercial" target="off-airport check-in services" id="550" weight="0.7777777777777778" />
+      <edge source="commercial" target="option creator" id="551" weight="0.6222222222222222" />
+      <edge source="commercial" target="personalised product recommendations" id="552" weight="0.7777777777777778" />
+      <edge source="commercial" target="pet travel" id="553" weight="0.6222222222222222" />
+      <edge source="commercial" target="planitas" id="554" weight="0.7777777777777778" />
+      <edge source="commercial" target="pnr-level data" id="555" weight="0.7777777777777778" />
+      <edge source="commercial" target="product relevance" id="556" weight="0.7777777777777778" />
+      <edge source="commercial" target="real-time" id="557" weight="0.5656565656565657" />
+      <edge source="commercial" target="revenue forecasting" id="558" weight="0.7777777777777778" />
+      <edge source="commercial" target="self-serve" id="559" weight="0.6222222222222222" />
+      <edge source="commercial" target="shabstec" id="560" weight="0.6222222222222222" />
+      <edge source="commercial" target="simplevisa" id="561" weight="0.5656565656565657" />
+      <edge source="commercial" target="travel agency" id="562" weight="0.7777777777777778" />
+      <edge source="commercial" target="travel ancillary products" id="563" weight="0.7777777777777778" />
+      <edge source="commercial" target="traveltech" id="564" weight="0.7777777777777778" />
+      <edge source="commercial" target="tripadmit" id="565" weight="0.7777777777777778" />
+      <edge source="commercial" target="web services" id="566" weight="0.6222222222222222" />
+      <edge source="commercial" target="white label" id="567" weight="0.7777777777777778" />
+      <edge source="commercial" target="world travel awards" id="568" weight="0.7777777777777778" />
+      <edge source="conference agenda" target="daa" id="569" weight="0.6000000000000001" />
+      <edge source="conference agenda" target="digital retailing" id="570" weight="0.6000000000000001" />
+      <edge source="conference agenda" target="ethiopian airlines" id="571" weight="0.8571428571428572" />
+      <edge source="conference agenda" target="threedot" id="572" weight="0.75" />
+      <edge source="connecta" target="contactless collection of duty free" id="573" weight="0.7000000000000001" />
+      <edge source="connecta" target="content management" id="574" weight="0.7777777777777778" />
+      <edge source="connecta" target="customer profiling" id="575" weight="0.875" />
+      <edge source="connecta" target="deep learning" id="576" weight="0.7000000000000001" />
+      <edge source="connecta" target="delivery centres" id="577" weight="0.875" />
+      <edge source="connecta" target="digital commerce" id="578" weight="0.7777777777777778" />
+      <edge source="connecta" target="dutyfreak" id="579" weight="0.7000000000000001" />
+      <edge source="connecta" target="dynamic offer strategies" id="580" weight="0.875" />
+      <edge source="connecta" target="eezeetags" id="581" weight="0.5833333333333334" />
+      <edge source="connecta" target="endava" id="582" weight="0.875" />
+      <edge source="connecta" target="flexiroam" id="583" weight="0.7000000000000001" />
+      <edge source="connecta" target="flyr" id="584" weight="0.7777777777777778" />
+      <edge source="connecta" target="friction reduction" id="585" weight="0.7777777777777778" />
+      <edge source="connecta" target="global travel" id="586" weight="0.5833333333333334" />
+      <edge source="connecta" target="hepstar" id="587" weight="0.875" />
+      <edge source="connecta" target="insurtech" id="588" weight="0.875" />
+      <edge source="connecta" target="integration" id="589" weight="0.7000000000000001" />
+      <edge source="connecta" target="intelligence" id="590" weight="0.5833333333333334" />
+      <edge source="connecta" target="loyalty programmes" id="591" weight="0.875" />
+      <edge source="connecta" target="managed data infrastructure" id="592" weight="0.875" />
+      <edge source="connecta" target="mobile computing" id="593" weight="0.7000000000000001" />
+      <edge source="connecta" target="mobile connectivity" id="594" weight="0.6363636363636365" />
+      <edge source="connecta" target="non-aeronautical revenue opportunities" id="595" weight="0.7000000000000001" />
+      <edge source="connecta" target="oacis" id="596" weight="0.7777777777777778" />
+      <edge source="connecta" target="off-airport check-in services" id="597" weight="0.875" />
+      <edge source="connecta" target="option creator" id="598" weight="0.7000000000000001" />
+      <edge source="connecta" target="personalised product recommendations" id="599" weight="0.875" />
+      <edge source="connecta" target="pet travel" id="600" weight="0.7000000000000001" />
+      <edge source="connecta" target="planitas" id="601" weight="0.875" />
+      <edge source="connecta" target="pnr-level data" id="602" weight="0.875" />
+      <edge source="connecta" target="product relevance" id="603" weight="0.875" />
+      <edge source="connecta" target="real-time" id="604" weight="0.6363636363636365" />
+      <edge source="connecta" target="revenue forecasting" id="605" weight="0.875" />
+      <edge source="connecta" target="self-serve" id="606" weight="0.7000000000000001" />
+      <edge source="connecta" target="shabstec" id="607" weight="0.7000000000000001" />
+      <edge source="connecta" target="simplevisa" id="608" weight="0.6363636363636365" />
+      <edge source="connecta" target="technology solutions" id="609" weight="0.5833333333333334" />
+      <edge source="connecta" target="travel agency" id="610" weight="0.875" />
+      <edge source="connecta" target="travel ancillary products" id="611" weight="0.875" />
+      <edge source="connecta" target="traveltech" id="612" weight="0.875" />
+      <edge source="connecta" target="tripadmit" id="613" weight="0.875" />
+      <edge source="connecta" target="web services" id="614" weight="0.7000000000000001" />
+      <edge source="connecta" target="white label" id="615" weight="0.875" />
+      <edge source="connecta" target="world travel awards" id="616" weight="0.875" />
+      <edge source="contactless collection of duty free" target="content management" id="617" weight="0.6222222222222222" />
+      <edge source="contactless collection of duty free" target="customer profiling" id="618" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="deep learning" id="619" weight="0.56" />
+      <edge source="contactless collection of duty free" target="delivery centres" id="620" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="digital commerce" id="621" weight="0.6222222222222222" />
+      <edge source="contactless collection of duty free" target="dutyfreak" id="622" weight="0.56" />
+      <edge source="contactless collection of duty free" target="dynamic offer strategies" id="623" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="eezeetags" id="624" weight="0.5833333333333335" />
+      <edge source="contactless collection of duty free" target="endava" id="625" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="flexiroam" id="626" weight="0.56" />
+      <edge source="contactless collection of duty free" target="flyr" id="627" weight="0.6222222222222222" />
+      <edge source="contactless collection of duty free" target="friction reduction" id="628" weight="0.6222222222222222" />
+      <edge source="contactless collection of duty free" target="hepstar" id="629" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="insurtech" id="630" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="integration" id="631" weight="0.56" />
+      <edge source="contactless collection of duty free" target="loyalty programmes" id="632" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="managed data infrastructure" id="633" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="mobile computing" id="634" weight="0.56" />
+      <edge source="contactless collection of duty free" target="non-aeronautical revenue opportunities" id="635" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="oacis" id="636" weight="0.6222222222222222" />
+      <edge source="contactless collection of duty free" target="off-airport check-in services" id="637" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="option creator" id="638" weight="0.56" />
+      <edge source="contactless collection of duty free" target="personalised product recommendations" id="639" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="pet travel" id="640" weight="0.56" />
+      <edge source="contactless collection of duty free" target="planitas" id="641" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="pnr-level data" id="642" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="product relevance" id="643" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="revenue forecasting" id="644" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="self-serve" id="645" weight="0.56" />
+      <edge source="contactless collection of duty free" target="shabstec" id="646" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="technology solutions" id="647" weight="0.5833333333333335" />
+      <edge source="contactless collection of duty free" target="travel agency" id="648" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="travel ancillary products" id="649" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="traveltech" id="650" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="tripadmit" id="651" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="web services" id="652" weight="0.56" />
+      <edge source="contactless collection of duty free" target="white label" id="653" weight="0.7000000000000001" />
+      <edge source="contactless collection of duty free" target="world travel awards" id="654" weight="0.7000000000000001" />
+      <edge source="content management" target="customer profiling" id="655" weight="0.7777777777777778" />
+      <edge source="content management" target="deep learning" id="656" weight="0.6222222222222222" />
+      <edge source="content management" target="delivery centres" id="657" weight="0.7777777777777778" />
+      <edge source="content management" target="digital commerce" id="658" weight="0.691358024691358" />
+      <edge source="content management" target="dutyfreak" id="659" weight="0.6222222222222222" />
+      <edge source="content management" target="dynamic offer strategies" id="660" weight="0.7777777777777778" />
+      <edge source="content management" target="endava" id="661" weight="0.7777777777777778" />
+      <edge source="content management" target="flexiroam" id="662" weight="0.6222222222222222" />
+      <edge source="content management" target="flyr" id="663" weight="0.691358024691358" />
+      <edge source="content management" target="friction reduction" id="664" weight="0.691358024691358" />
+      <edge source="content management" target="hepstar" id="665" weight="0.7777777777777778" />
+      <edge source="content management" target="insurtech" id="666" weight="0.7777777777777778" />
+      <edge source="content management" target="integration" id="667" weight="0.6222222222222222" />
+      <edge source="content management" target="loyalty programmes" id="668" weight="0.7777777777777778" />
+      <edge source="content management" target="managed data infrastructure" id="669" weight="0.7777777777777778" />
+      <edge source="content management" target="mobile computing" id="670" weight="0.6222222222222222" />
+      <edge source="content management" target="mobile connectivity" id="671" weight="0.5656565656565657" />
+      <edge source="content management" target="non-aeronautical revenue opportunities" id="672" weight="0.6222222222222222" />
+      <edge source="content management" target="oacis" id="673" weight="0.691358024691358" />
+      <edge source="content management" target="off-airport check-in services" id="674" weight="0.7777777777777778" />
+      <edge source="content management" target="option creator" id="675" weight="0.6222222222222222" />
+      <edge source="content management" target="personalised product recommendations" id="676" weight="0.7777777777777778" />
+      <edge source="content management" target="pet travel" id="677" weight="0.6222222222222222" />
+      <edge source="content management" target="planitas" id="678" weight="0.7777777777777778" />
+      <edge source="content management" target="pnr-level data" id="679" weight="0.7777777777777778" />
+      <edge source="content management" target="product relevance" id="680" weight="0.7777777777777778" />
+      <edge source="content management" target="real-time" id="681" weight="0.5656565656565657" />
+      <edge source="content management" target="revenue forecasting" id="682" weight="0.7777777777777778" />
+      <edge source="content management" target="self-serve" id="683" weight="0.6222222222222222" />
+      <edge source="content management" target="shabstec" id="684" weight="0.6222222222222222" />
+      <edge source="content management" target="simplevisa" id="685" weight="0.5656565656565657" />
+      <edge source="content management" target="travel agency" id="686" weight="0.7777777777777778" />
+      <edge source="content management" target="travel ancillary products" id="687" weight="0.7777777777777778" />
+      <edge source="content management" target="traveltech" id="688" weight="0.7777777777777778" />
+      <edge source="content management" target="tripadmit" id="689" weight="0.7777777777777778" />
+      <edge source="content management" target="web services" id="690" weight="0.6222222222222222" />
+      <edge source="content management" target="white label" id="691" weight="0.7777777777777778" />
+      <edge source="content management" target="world travel awards" id="692" weight="0.7777777777777778" />
+      <edge source="cost reduction" target="simplevisa" id="693" weight="0.5568181818181819" />
+      <edge source="customer profiling" target="deep learning" id="694" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="delivery centres" id="695" weight="0.875" />
+      <edge source="customer profiling" target="digital commerce" id="696" weight="0.7777777777777778" />
+      <edge source="customer profiling" target="dutyfreak" id="697" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="dynamic offer strategies" id="698" weight="0.875" />
+      <edge source="customer profiling" target="eezeetags" id="699" weight="0.5833333333333334" />
+      <edge source="customer profiling" target="endava" id="700" weight="0.875" />
+      <edge source="customer profiling" target="flexiroam" id="701" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="flyr" id="702" weight="0.7777777777777778" />
+      <edge source="customer profiling" target="friction reduction" id="703" weight="0.7777777777777778" />
+      <edge source="customer profiling" target="global travel" id="704" weight="0.5833333333333334" />
+      <edge source="customer profiling" target="hepstar" id="705" weight="0.875" />
+      <edge source="customer profiling" target="insurtech" id="706" weight="0.875" />
+      <edge source="customer profiling" target="integration" id="707" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="intelligence" id="708" weight="0.5833333333333334" />
+      <edge source="customer profiling" target="loyalty programmes" id="709" weight="0.875" />
+      <edge source="customer profiling" target="managed data infrastructure" id="710" weight="0.875" />
+      <edge source="customer profiling" target="mobile computing" id="711" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="mobile connectivity" id="712" weight="0.6363636363636365" />
+      <edge source="customer profiling" target="non-aeronautical revenue opportunities" id="713" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="oacis" id="714" weight="0.7777777777777778" />
+      <edge source="customer profiling" target="off-airport check-in services" id="715" weight="0.875" />
+      <edge source="customer profiling" target="option creator" id="716" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="personalised product recommendations" id="717" weight="0.875" />
+      <edge source="customer profiling" target="pet travel" id="718" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="planitas" id="719" weight="0.875" />
+      <edge source="customer profiling" target="pnr-level data" id="720" weight="0.875" />
+      <edge source="customer profiling" target="product relevance" id="721" weight="0.875" />
+      <edge source="customer profiling" target="real-time" id="722" weight="0.6363636363636365" />
+      <edge source="customer profiling" target="revenue forecasting" id="723" weight="0.875" />
+      <edge source="customer profiling" target="self-serve" id="724" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="shabstec" id="725" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="simplevisa" id="726" weight="0.6363636363636365" />
+      <edge source="customer profiling" target="technology solutions" id="727" weight="0.5833333333333334" />
+      <edge source="customer profiling" target="travel agency" id="728" weight="0.875" />
+      <edge source="customer profiling" target="travel ancillary products" id="729" weight="0.875" />
+      <edge source="customer profiling" target="traveltech" id="730" weight="0.875" />
+      <edge source="customer profiling" target="tripadmit" id="731" weight="0.875" />
+      <edge source="customer profiling" target="web services" id="732" weight="0.7000000000000001" />
+      <edge source="customer profiling" target="white label" id="733" weight="0.875" />
+      <edge source="customer profiling" target="world travel awards" id="734" weight="0.875" />
+      <edge source="customised solutions" target="electronic bag tag" id="735" weight="0.5833333333333334" />
+      <edge source="customised solutions" target="mobile shopping" id="736" weight="0.65625" />
+      <edge source="customised solutions" target="otp" id="737" weight="0.65625" />
+      <edge source="customised solutions" target="pet reservation system" id="738" weight="0.65625" />
+      <edge source="customised solutions" target="regula" id="739" weight="0.65625" />
+      <edge source="customised solutions" target="satellite communications" id="740" weight="0.65625" />
+      <edge source="customised solutions" target="self-boarding" id="741" weight="0.65625" />
+      <edge source="customised solutions" target="sherpa" id="742" weight="0.75" />
+      <edge source="customised solutions" target="snowfall" id="743" weight="0.65625" />
+      <edge source="customised solutions" target="wireless connectivity" id="744" weight="0.75" />
+      <edge source="daa" target="ethiopian airlines" id="745" weight="0.6000000000000001" />
+      <edge source="data roaming" target="fashion" id="746" weight="0.5714285714285714" />
+      <edge source="data roaming" target="flexiroam" id="747" weight="0.6000000000000001" />
+      <edge source="data roaming" target="future intercont experience" id="748" weight="0.5714285714285714" />
+      <edge source="data roaming" target="gps-guided tours" id="749" weight="0.5714285714285714" />
+      <edge source="data roaming" target="internet" id="750" weight="0.5714285714285714" />
+      <edge source="data roaming" target="mixed reality" id="751" weight="0.5714285714285714" />
+      <edge source="data roaming" target="mobile phone" id="752" weight="0.625" />
+      <edge source="data roaming" target="passenger engagement" id="753" weight="0.5714285714285714" />
+      <edge source="deep learning" target="delivery centres" id="754" weight="0.7000000000000001" />
+      <edge source="deep learning" target="digital commerce" id="755" weight="0.6222222222222222" />
+      <edge source="deep learning" target="dutyfreak" id="756" weight="0.56" />
+      <edge source="deep learning" target="dynamic offer strategies" id="757" weight="0.7000000000000001" />
+      <edge source="deep learning" target="endava" id="758" weight="0.7000000000000001" />
+      <edge source="deep learning" target="flexiroam" id="759" weight="0.56" />
+      <edge source="deep learning" target="flyr" id="760" weight="0.6222222222222222" />
+      <edge source="deep learning" target="friction reduction" id="761" weight="0.6222222222222222" />
+      <edge source="deep learning" target="hepstar" id="762" weight="0.7000000000000001" />
+      <edge source="deep learning" target="insurtech" id="763" weight="0.7000000000000001" />
+      <edge source="deep learning" target="integration" id="764" weight="0.56" />
+      <edge source="deep learning" target="loyalty programmes" id="765" weight="0.7000000000000001" />
+      <edge source="deep learning" target="managed data infrastructure" id="766" weight="0.7000000000000001" />
+      <edge source="deep learning" target="mobile computing" id="767" weight="0.7000000000000001" />
+      <edge source="deep learning" target="non-aeronautical revenue opportunities" id="768" weight="0.56" />
+      <edge source="deep learning" target="oacis" id="769" weight="0.6222222222222222" />
+      <edge source="deep learning" target="off-airport check-in services" id="770" weight="0.7000000000000001" />
+      <edge source="deep learning" target="option creator" id="771" weight="0.56" />
+      <edge source="deep learning" target="personalised product recommendations" id="772" weight="0.7000000000000001" />
+      <edge source="deep learning" target="pet travel" id="773" weight="0.56" />
+      <edge source="deep learning" target="planitas" id="774" weight="0.7000000000000001" />
+      <edge source="deep learning" target="pnr-level data" id="775" weight="0.7000000000000001" />
+      <edge source="deep learning" target="product relevance" id="776" weight="0.7000000000000001" />
+      <edge source="deep learning" target="revenue forecasting" id="777" weight="0.7000000000000001" />
+      <edge source="deep learning" target="self-serve" id="778" weight="0.56" />
+      <edge source="deep learning" target="shabstec" id="779" weight="0.56" />
+      <edge source="deep learning" target="travel agency" id="780" weight="0.7000000000000001" />
+      <edge source="deep learning" target="travel ancillary products" id="781" weight="0.7000000000000001" />
+      <edge source="deep learning" target="traveltech" id="782" weight="0.7000000000000001" />
+      <edge source="deep learning" target="tripadmit" id="783" weight="0.7000000000000001" />
+      <edge source="deep learning" target="waste management" id="784" weight="0.6000000000000001" />
+      <edge source="deep learning" target="web services" id="785" weight="0.7000000000000001" />
+      <edge source="deep learning" target="white label" id="786" weight="0.7000000000000001" />
+      <edge source="deep learning" target="world travel awards" id="787" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="digital commerce" id="788" weight="0.7777777777777778" />
+      <edge source="delivery centres" target="dutyfreak" id="789" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="dynamic offer strategies" id="790" weight="0.875" />
+      <edge source="delivery centres" target="eezeetags" id="791" weight="0.5833333333333334" />
+      <edge source="delivery centres" target="endava" id="792" weight="0.875" />
+      <edge source="delivery centres" target="flexiroam" id="793" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="flyr" id="794" weight="0.7777777777777778" />
+      <edge source="delivery centres" target="friction reduction" id="795" weight="0.7777777777777778" />
+      <edge source="delivery centres" target="global travel" id="796" weight="0.5833333333333334" />
+      <edge source="delivery centres" target="hepstar" id="797" weight="0.875" />
+      <edge source="delivery centres" target="insurtech" id="798" weight="0.875" />
+      <edge source="delivery centres" target="integration" id="799" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="intelligence" id="800" weight="0.5833333333333334" />
+      <edge source="delivery centres" target="loyalty programmes" id="801" weight="0.875" />
+      <edge source="delivery centres" target="managed data infrastructure" id="802" weight="0.875" />
+      <edge source="delivery centres" target="mobile computing" id="803" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="mobile connectivity" id="804" weight="0.6363636363636365" />
+      <edge source="delivery centres" target="non-aeronautical revenue opportunities" id="805" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="oacis" id="806" weight="0.7777777777777778" />
+      <edge source="delivery centres" target="off-airport check-in services" id="807" weight="0.875" />
+      <edge source="delivery centres" target="option creator" id="808" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="personalised product recommendations" id="809" weight="0.875" />
+      <edge source="delivery centres" target="pet travel" id="810" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="planitas" id="811" weight="0.875" />
+      <edge source="delivery centres" target="pnr-level data" id="812" weight="0.875" />
+      <edge source="delivery centres" target="product relevance" id="813" weight="0.875" />
+      <edge source="delivery centres" target="real-time" id="814" weight="0.6363636363636365" />
+      <edge source="delivery centres" target="revenue forecasting" id="815" weight="0.875" />
+      <edge source="delivery centres" target="self-serve" id="816" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="shabstec" id="817" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="simplevisa" id="818" weight="0.6363636363636365" />
+      <edge source="delivery centres" target="technology solutions" id="819" weight="0.5833333333333334" />
+      <edge source="delivery centres" target="travel agency" id="820" weight="0.875" />
+      <edge source="delivery centres" target="travel ancillary products" id="821" weight="0.875" />
+      <edge source="delivery centres" target="traveltech" id="822" weight="0.875" />
+      <edge source="delivery centres" target="tripadmit" id="823" weight="0.875" />
+      <edge source="delivery centres" target="web services" id="824" weight="0.7000000000000001" />
+      <edge source="delivery centres" target="white label" id="825" weight="0.875" />
+      <edge source="delivery centres" target="world travel awards" id="826" weight="0.875" />
+      <edge source="digital commerce" target="dutyfreak" id="827" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="dynamic offer strategies" id="828" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="endava" id="829" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="flexiroam" id="830" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="flyr" id="831" weight="0.691358024691358" />
+      <edge source="digital commerce" target="friction reduction" id="832" weight="0.691358024691358" />
+      <edge source="digital commerce" target="hepstar" id="833" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="insurtech" id="834" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="integration" id="835" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="loyalty programmes" id="836" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="managed data infrastructure" id="837" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="mobile computing" id="838" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="mobile connectivity" id="839" weight="0.5656565656565657" />
+      <edge source="digital commerce" target="non-aeronautical revenue opportunities" id="840" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="oacis" id="841" weight="0.691358024691358" />
+      <edge source="digital commerce" target="off-airport check-in services" id="842" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="option creator" id="843" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="personalised product recommendations" id="844" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="pet travel" id="845" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="planitas" id="846" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="pnr-level data" id="847" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="product relevance" id="848" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="real-time" id="849" weight="0.5656565656565657" />
+      <edge source="digital commerce" target="revenue forecasting" id="850" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="self-serve" id="851" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="shabstec" id="852" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="simplevisa" id="853" weight="0.5656565656565657" />
+      <edge source="digital commerce" target="travel agency" id="854" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="travel ancillary products" id="855" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="traveltech" id="856" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="tripadmit" id="857" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="web services" id="858" weight="0.6222222222222222" />
+      <edge source="digital commerce" target="white label" id="859" weight="0.7777777777777778" />
+      <edge source="digital commerce" target="world travel awards" id="860" weight="0.7777777777777778" />
+      <edge source="digital interactive customer experience" target="emerging technologies" id="861" weight="0.5714285714285714" />
+      <edge source="digital interactive customer experience" target="global travellers" id="862" weight="0.5714285714285714" />
+      <edge source="digital interactive customer experience" target="metahuman cabin crew" id="863" weight="1.0" />
+      <edge source="digital interactive customer experience" target="private networks" id="864" weight="0.5714285714285714" />
+      <edge source="digital interactive customer experience" target="qverse" id="865" weight="1.0" />
+      <edge source="digital interactive customer experience" target="vertical take-off and landing (evtol)" id="866" weight="0.5714285714285714" />
+      <edge source="digital retailing" target="ethiopian airlines" id="867" weight="0.6000000000000001" />
+      <edge source="digital retailing" target="threedot" id="868" weight="0.6125" />
+      <edge source="duty free shopping" target="flight operations" id="869" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="flyr labs" id="870" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="friction reduction" id="871" weight="0.5555555555555557" />
+      <edge source="duty free shopping" target="global markets" id="872" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="jetblue airways" id="873" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="mobile commerce" id="874" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="sherpa" id="875" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="verification" id="876" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="waste management" id="877" weight="0.5714285714285714" />
+      <edge source="duty free shopping" target="wireless connectivity" id="878" weight="0.5714285714285714" />
+      <edge source="dutyfreak" target="dynamic offer strategies" id="879" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="eezeetags" id="880" weight="0.5833333333333335" />
+      <edge source="dutyfreak" target="endava" id="881" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="flexiroam" id="882" weight="0.56" />
+      <edge source="dutyfreak" target="flyr" id="883" weight="0.6222222222222222" />
+      <edge source="dutyfreak" target="friction reduction" id="884" weight="0.6222222222222222" />
+      <edge source="dutyfreak" target="gps-guided tours" id="885" weight="0.6000000000000001" />
+      <edge source="dutyfreak" target="hepstar" id="886" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="insurtech" id="887" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="integration" id="888" weight="0.56" />
+      <edge source="dutyfreak" target="loyalty programmes" id="889" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="managed data infrastructure" id="890" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="mobile computing" id="891" weight="0.56" />
+      <edge source="dutyfreak" target="non-aeronautical revenue opportunities" id="892" weight="0.56" />
+      <edge source="dutyfreak" target="oacis" id="893" weight="0.6222222222222222" />
+      <edge source="dutyfreak" target="off-airport check-in services" id="894" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="option creator" id="895" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="personalised product recommendations" id="896" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="pet travel" id="897" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="planitas" id="898" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="pnr-level data" id="899" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="product relevance" id="900" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="revenue forecasting" id="901" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="self-serve" id="902" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="shabstec" id="903" weight="0.56" />
+      <edge source="dutyfreak" target="sherpa" id="904" weight="0.6000000000000001" />
+      <edge source="dutyfreak" target="technology solutions" id="905" weight="0.5833333333333335" />
+      <edge source="dutyfreak" target="travel agency" id="906" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="travel ancillary products" id="907" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="traveltech" id="908" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="tripadmit" id="909" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="web services" id="910" weight="0.56" />
+      <edge source="dutyfreak" target="white label" id="911" weight="0.7000000000000001" />
+      <edge source="dutyfreak" target="wireless connectivity" id="912" weight="0.6000000000000001" />
+      <edge source="dutyfreak" target="world travel awards" id="913" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="eezeetags" id="914" weight="0.5833333333333334" />
+      <edge source="dynamic offer strategies" target="endava" id="915" weight="0.875" />
+      <edge source="dynamic offer strategies" target="flexiroam" id="916" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="flyr" id="917" weight="0.7777777777777778" />
+      <edge source="dynamic offer strategies" target="friction reduction" id="918" weight="0.7777777777777778" />
+      <edge source="dynamic offer strategies" target="global travel" id="919" weight="0.5833333333333334" />
+      <edge source="dynamic offer strategies" target="hepstar" id="920" weight="0.875" />
+      <edge source="dynamic offer strategies" target="insurtech" id="921" weight="0.875" />
+      <edge source="dynamic offer strategies" target="integration" id="922" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="intelligence" id="923" weight="0.5833333333333334" />
+      <edge source="dynamic offer strategies" target="loyalty programmes" id="924" weight="0.875" />
+      <edge source="dynamic offer strategies" target="managed data infrastructure" id="925" weight="0.875" />
+      <edge source="dynamic offer strategies" target="mobile computing" id="926" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="mobile connectivity" id="927" weight="0.6363636363636365" />
+      <edge source="dynamic offer strategies" target="non-aeronautical revenue opportunities" id="928" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="oacis" id="929" weight="0.7777777777777778" />
+      <edge source="dynamic offer strategies" target="off-airport check-in services" id="930" weight="0.875" />
+      <edge source="dynamic offer strategies" target="option creator" id="931" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="personalised product recommendations" id="932" weight="0.875" />
+      <edge source="dynamic offer strategies" target="pet travel" id="933" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="planitas" id="934" weight="0.875" />
+      <edge source="dynamic offer strategies" target="pnr-level data" id="935" weight="0.875" />
+      <edge source="dynamic offer strategies" target="product relevance" id="936" weight="0.875" />
+      <edge source="dynamic offer strategies" target="real-time" id="937" weight="0.6363636363636365" />
+      <edge source="dynamic offer strategies" target="revenue forecasting" id="938" weight="0.875" />
+      <edge source="dynamic offer strategies" target="self-serve" id="939" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="shabstec" id="940" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="simplevisa" id="941" weight="0.6363636363636365" />
+      <edge source="dynamic offer strategies" target="technology solutions" id="942" weight="0.5833333333333334" />
+      <edge source="dynamic offer strategies" target="travel agency" id="943" weight="0.875" />
+      <edge source="dynamic offer strategies" target="travel ancillary products" id="944" weight="0.875" />
+      <edge source="dynamic offer strategies" target="traveltech" id="945" weight="0.875" />
+      <edge source="dynamic offer strategies" target="tripadmit" id="946" weight="0.875" />
+      <edge source="dynamic offer strategies" target="web services" id="947" weight="0.7000000000000001" />
+      <edge source="dynamic offer strategies" target="white label" id="948" weight="0.875" />
+      <edge source="dynamic offer strategies" target="world travel awards" id="949" weight="0.875" />
+      <edge source="eezeetags" target="endava" id="950" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="hepstar" id="951" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="insurtech" id="952" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="loyalty programmes" id="953" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="managed data infrastructure" id="954" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="non-aeronautical revenue opportunities" id="955" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="off-airport check-in services" id="956" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="option creator" id="957" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="otp" id="958" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="personalised product recommendations" id="959" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="pet reservation system" id="960" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="pet travel" id="961" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="planitas" id="962" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="pnr-level data" id="963" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="product relevance" id="964" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="regula" id="965" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="revenue forecasting" id="966" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="satellite communications" id="967" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="self-serve" id="968" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="shabstec" id="969" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="snowfall" id="970" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="technology solutions" id="971" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="travel agency" id="972" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="travel ancillary products" id="973" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="traveltech" id="974" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="tripadmit" id="975" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="white label" id="976" weight="0.5833333333333334" />
+      <edge source="eezeetags" target="world travel awards" id="977" weight="0.5833333333333334" />
+      <edge source="electronic bag tag" target="inventory management" id="978" weight="0.5656565656565657" />
+      <edge source="electronic bag tag" target="mobile shopping" id="979" weight="0.5833333333333334" />
+      <edge source="electronic bag tag" target="otp" id="980" weight="0.7777777777777778" />
+      <edge source="electronic bag tag" target="pet reservation system" id="981" weight="0.7777777777777778" />
+      <edge source="electronic bag tag" target="regula" id="982" weight="0.7777777777777778" />
+      <edge source="electronic bag tag" target="rfid" id="983" weight="0.5656565656565657" />
+      <edge source="electronic bag tag" target="saas" id="984" weight="0.5833333333333334" />
+      <edge source="electronic bag tag" target="satellite communications" id="985" weight="0.7777777777777778" />
+      <edge source="electronic bag tag" target="self-boarding" id="986" weight="0.5833333333333334" />
+      <edge source="electronic bag tag" target="sherpa" id="987" weight="0.6666666666666666" />
+      <edge source="electronic bag tag" target="snowfall" id="988" weight="0.7777777777777778" />
+      <edge source="electronic bag tag" target="ubizense" id="989" weight="0.5833333333333334" />
+      <edge source="electronic bag tag" target="wireless connectivity" id="990" weight="0.6666666666666666" />
+      <edge source="emerging technologies" target="global travellers" id="991" weight="0.5714285714285714" />
+      <edge source="emerging technologies" target="identity verification" id="992" weight="0.6000000000000001" />
+      <edge source="emerging technologies" target="metahuman cabin crew" id="993" weight="0.5714285714285714" />
+      <edge source="emerging technologies" target="private networks" id="994" weight="0.8571428571428572" />
+      <edge source="emerging technologies" target="qverse" id="995" weight="0.5714285714285714" />
+      <edge source="emerging technologies" target="self bag drop" id="996" weight="0.6000000000000001" />
+      <edge source="emerging technologies" target="vertical take-off and landing (evtol)" id="997" weight="0.5714285714285714" />
+      <edge source="end-to-end passenger experience" target="nfticket" id="998" weight="0.5568181818181819" />
+      <edge source="endava" target="flexiroam" id="999" weight="0.7000000000000001" />
+      <edge source="endava" target="flyr" id="1000" weight="0.7777777777777778" />
+      <edge source="endava" target="friction reduction" id="1001" weight="0.7777777777777778" />
+      <edge source="endava" target="global travel" id="1002" weight="0.5833333333333334" />
+      <edge source="endava" target="hepstar" id="1003" weight="0.875" />
+      <edge source="endava" target="insurtech" id="1004" weight="0.875" />
+      <edge source="endava" target="integration" id="1005" weight="0.7000000000000001" />
+      <edge source="endava" target="intelligence" id="1006" weight="0.5833333333333334" />
+      <edge source="endava" target="loyalty programmes" id="1007" weight="0.875" />
+      <edge source="endava" target="managed data infrastructure" id="1008" weight="0.875" />
+      <edge source="endava" target="mobile computing" id="1009" weight="0.7000000000000001" />
+      <edge source="endava" target="mobile connectivity" id="1010" weight="0.6363636363636365" />
+      <edge source="endava" target="non-aeronautical revenue opportunities" id="1011" weight="0.7000000000000001" />
+      <edge source="endava" target="oacis" id="1012" weight="0.7777777777777778" />
+      <edge source="endava" target="off-airport check-in services" id="1013" weight="0.875" />
+      <edge source="endava" target="option creator" id="1014" weight="0.7000000000000001" />
+      <edge source="endava" target="personalised product recommendations" id="1015" weight="0.875" />
+      <edge source="endava" target="pet travel" id="1016" weight="0.7000000000000001" />
+      <edge source="endava" target="planitas" id="1017" weight="0.875" />
+      <edge source="endava" target="pnr-level data" id="1018" weight="0.875" />
+      <edge source="endava" target="product relevance" id="1019" weight="0.875" />
+      <edge source="endava" target="real-time" id="1020" weight="0.6363636363636365" />
+      <edge source="endava" target="revenue forecasting" id="1021" weight="0.875" />
+      <edge source="endava" target="self-serve" id="1022" weight="0.7000000000000001" />
+      <edge source="endava" target="shabstec" id="1023" weight="0.7000000000000001" />
+      <edge source="endava" target="simplevisa" id="1024" weight="0.6363636363636365" />
+      <edge source="endava" target="technology solutions" id="1025" weight="0.5833333333333334" />
+      <edge source="endava" target="travel agency" id="1026" weight="0.875" />
+      <edge source="endava" target="travel ancillary products" id="1027" weight="0.875" />
+      <edge source="endava" target="traveltech" id="1028" weight="0.875" />
+      <edge source="endava" target="tripadmit" id="1029" weight="0.875" />
+      <edge source="endava" target="web services" id="1030" weight="0.7000000000000001" />
+      <edge source="endava" target="white label" id="1031" weight="0.875" />
+      <edge source="endava" target="world travel awards" id="1032" weight="0.875" />
+      <edge source="ethiopian airlines" target="threedot" id="1033" weight="0.75" />
+      <edge source="fashion" target="future intercont experience" id="1034" weight="0.5714285714285714" />
+      <edge source="fashion" target="gps-guided tours" id="1035" weight="0.5714285714285714" />
+      <edge source="fashion" target="internet" id="1036" weight="0.5714285714285714" />
+      <edge source="fashion" target="mixed reality" id="1037" weight="0.5714285714285714" />
+      <edge source="fashion" target="passenger engagement" id="1038" weight="0.5714285714285714" />
+      <edge source="flexiroam" target="flyr" id="1039" weight="0.6222222222222222" />
+      <edge source="flexiroam" target="friction reduction" id="1040" weight="0.6222222222222222" />
+      <edge source="flexiroam" target="hepstar" id="1041" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="insurtech" id="1042" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="integration" id="1043" weight="0.56" />
+      <edge source="flexiroam" target="loyalty programmes" id="1044" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="managed data infrastructure" id="1045" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="mobile computing" id="1046" weight="0.56" />
+      <edge source="flexiroam" target="mobile connectivity" id="1047" weight="0.6363636363636365" />
+      <edge source="flexiroam" target="non-aeronautical revenue opportunities" id="1048" weight="0.56" />
+      <edge source="flexiroam" target="oacis" id="1049" weight="0.6222222222222222" />
+      <edge source="flexiroam" target="off-airport check-in services" id="1050" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="option creator" id="1051" weight="0.56" />
+      <edge source="flexiroam" target="personalised product recommendations" id="1052" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="pet travel" id="1053" weight="0.56" />
+      <edge source="flexiroam" target="planitas" id="1054" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="pnr-level data" id="1055" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="product relevance" id="1056" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="revenue forecasting" id="1057" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="self-serve" id="1058" weight="0.56" />
+      <edge source="flexiroam" target="shabstec" id="1059" weight="0.56" />
+      <edge source="flexiroam" target="travel agency" id="1060" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="travel ancillary products" id="1061" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="traveltech" id="1062" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="tripadmit" id="1063" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="web services" id="1064" weight="0.56" />
+      <edge source="flexiroam" target="white label" id="1065" weight="0.7000000000000001" />
+      <edge source="flexiroam" target="world travel awards" id="1066" weight="0.7000000000000001" />
+      <edge source="flight operations" target="flyr labs" id="1067" weight="0.5714285714285714" />
+      <edge source="flight operations" target="global markets" id="1068" weight="0.5714285714285714" />
+      <edge source="flight operations" target="jetblue airways" id="1069" weight="0.5714285714285714" />
+      <edge source="flight operations" target="mobile commerce" id="1070" weight="0.5714285714285714" />
+      <edge source="flight operations" target="sherpa" id="1071" weight="0.5714285714285714" />
+      <edge source="flight operations" target="verification" id="1072" weight="0.5714285714285714" />
+      <edge source="flight operations" target="waste management" id="1073" weight="0.5714285714285714" />
+      <edge source="flight operations" target="wireless connectivity" id="1074" weight="0.5714285714285714" />
+      <edge source="flyr" target="friction reduction" id="1075" weight="0.691358024691358" />
+      <edge source="flyr" target="hepstar" id="1076" weight="0.7777777777777778" />
+      <edge source="flyr" target="insurtech" id="1077" weight="0.7777777777777778" />
+      <edge source="flyr" target="integration" id="1078" weight="0.6222222222222222" />
+      <edge source="flyr" target="loyalty programmes" id="1079" weight="0.7777777777777778" />
+      <edge source="flyr" target="managed data infrastructure" id="1080" weight="0.7777777777777778" />
+      <edge source="flyr" target="mobile computing" id="1081" weight="0.6222222222222222" />
+      <edge source="flyr" target="mobile connectivity" id="1082" weight="0.5656565656565657" />
+      <edge source="flyr" target="non-aeronautical revenue opportunities" id="1083" weight="0.6222222222222222" />
+      <edge source="flyr" target="oacis" id="1084" weight="0.691358024691358" />
+      <edge source="flyr" target="off-airport check-in services" id="1085" weight="0.7777777777777778" />
+      <edge source="flyr" target="option creator" id="1086" weight="0.6222222222222222" />
+      <edge source="flyr" target="personalised product recommendations" id="1087" weight="0.7777777777777778" />
+      <edge source="flyr" target="pet travel" id="1088" weight="0.6222222222222222" />
+      <edge source="flyr" target="planitas" id="1089" weight="0.7777777777777778" />
+      <edge source="flyr" target="pnr-level data" id="1090" weight="0.7777777777777778" />
+      <edge source="flyr" target="product relevance" id="1091" weight="0.7777777777777778" />
+      <edge source="flyr" target="real-time" id="1092" weight="0.5656565656565657" />
+      <edge source="flyr" target="revenue forecasting" id="1093" weight="0.7777777777777778" />
+      <edge source="flyr" target="self-serve" id="1094" weight="0.6222222222222222" />
+      <edge source="flyr" target="shabstec" id="1095" weight="0.6222222222222222" />
+      <edge source="flyr" target="simplevisa" id="1096" weight="0.5656565656565657" />
+      <edge source="flyr" target="travel agency" id="1097" weight="0.7777777777777778" />
+      <edge source="flyr" target="travel ancillary products" id="1098" weight="0.7777777777777778" />
+      <edge source="flyr" target="traveltech" id="1099" weight="0.7777777777777778" />
+      <edge source="flyr" target="tripadmit" id="1100" weight="0.7777777777777778" />
+      <edge source="flyr" target="web services" id="1101" weight="0.6222222222222222" />
+      <edge source="flyr" target="white label" id="1102" weight="0.7777777777777778" />
+      <edge source="flyr" target="world travel awards" id="1103" weight="0.7777777777777778" />
+      <edge source="flyr labs" target="global markets" id="1104" weight="0.5714285714285714" />
+      <edge source="flyr labs" target="jetblue airways" id="1105" weight="0.5714285714285714" />
+      <edge source="flyr labs" target="mobile commerce" id="1106" weight="0.5714285714285714" />
+      <edge source="flyr labs" target="revenue management" id="1107" weight="0.6363636363636365" />
+      <edge source="flyr labs" target="sherpa" id="1108" weight="0.5714285714285714" />
+      <edge source="flyr labs" target="travelx" id="1109" weight="0.7" />
+      <edge source="flyr labs" target="verification" id="1110" weight="0.5714285714285714" />
+      <edge source="flyr labs" target="waste management" id="1111" weight="0.5714285714285714" />
+      <edge source="flyr labs" target="wireless connectivity" id="1112" weight="0.5714285714285714" />
+      <edge source="friction reduction" target="hepstar" id="1113" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="insurtech" id="1114" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="integration" id="1115" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="loyalty programmes" id="1116" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="managed data infrastructure" id="1117" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="mobile computing" id="1118" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="mobile connectivity" id="1119" weight="0.5656565656565657" />
+      <edge source="friction reduction" target="non-aeronautical revenue opportunities" id="1120" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="oacis" id="1121" weight="0.691358024691358" />
+      <edge source="friction reduction" target="off-airport check-in services" id="1122" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="option creator" id="1123" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="personalised product recommendations" id="1124" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="pet travel" id="1125" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="planitas" id="1126" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="pnr-level data" id="1127" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="product relevance" id="1128" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="real-time" id="1129" weight="0.5656565656565657" />
+      <edge source="friction reduction" target="revenue forecasting" id="1130" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="self-serve" id="1131" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="shabstec" id="1132" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="simplevisa" id="1133" weight="0.5656565656565657" />
+      <edge source="friction reduction" target="travel agency" id="1134" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="travel ancillary products" id="1135" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="traveltech" id="1136" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="tripadmit" id="1137" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="web services" id="1138" weight="0.6222222222222222" />
+      <edge source="friction reduction" target="white label" id="1139" weight="0.7777777777777778" />
+      <edge source="friction reduction" target="world travel awards" id="1140" weight="0.7777777777777778" />
+      <edge source="fuel efficiency" target="mobile commerce" id="1141" weight="0.5555555555555556" />
+      <edge source="future intercont experience" target="gps-guided tours" id="1142" weight="0.7142857142857143" />
+      <edge source="future intercont experience" target="internet" id="1143" weight="0.5714285714285714" />
+      <edge source="future intercont experience" target="mixed reality" id="1144" weight="1.0" />
+      <edge source="future intercont experience" target="passenger engagement" id="1145" weight="0.5714285714285714" />
+      <edge source="global markets" target="jetblue airways" id="1146" weight="0.5714285714285714" />
+      <edge source="global markets" target="mobile commerce" id="1147" weight="0.5714285714285714" />
+      <edge source="global markets" target="sherpa" id="1148" weight="0.5714285714285714" />
+      <edge source="global markets" target="verification" id="1149" weight="0.5714285714285714" />
+      <edge source="global markets" target="waste management" id="1150" weight="0.5714285714285714" />
+      <edge source="global markets" target="wireless connectivity" id="1151" weight="0.5714285714285714" />
+      <edge source="global travel" target="hepstar" id="1152" weight="0.5833333333333334" />
+      <edge source="global travel" target="insurtech" id="1153" weight="0.5833333333333334" />
+      <edge source="global travel" target="loyalty programmes" id="1154" weight="0.5833333333333334" />
+      <edge source="global travel" target="managed data infrastructure" id="1155" weight="0.5833333333333334" />
+      <edge source="global travel" target="off-airport check-in services" id="1156" weight="0.5833333333333334" />
+      <edge source="global travel" target="personalised product recommendations" id="1157" weight="0.5833333333333334" />
+      <edge source="global travel" target="planitas" id="1158" weight="0.5833333333333334" />
+      <edge source="global travel" target="pnr-level data" id="1159" weight="0.5833333333333334" />
+      <edge source="global travel" target="product relevance" id="1160" weight="0.5833333333333334" />
+      <edge source="global travel" target="revenue forecasting" id="1161" weight="0.5833333333333334" />
+      <edge source="global travel" target="travel agency" id="1162" weight="0.5833333333333334" />
+      <edge source="global travel" target="travel ancillary products" id="1163" weight="0.5833333333333334" />
+      <edge source="global travel" target="traveltech" id="1164" weight="0.5833333333333334" />
+      <edge source="global travel" target="tripadmit" id="1165" weight="0.5833333333333334" />
+      <edge source="global travel" target="white label" id="1166" weight="0.5833333333333334" />
+      <edge source="global travel" target="world travel awards" id="1167" weight="0.5833333333333334" />
+      <edge source="global travellers" target="metahuman cabin crew" id="1168" weight="0.5714285714285714" />
+      <edge source="global travellers" target="private networks" id="1169" weight="0.5714285714285714" />
+      <edge source="global travellers" target="qverse" id="1170" weight="0.5714285714285714" />
+      <edge source="global travellers" target="vertical take-off and landing (evtol)" id="1171" weight="0.5714285714285714" />
+      <edge source="gps-guided tours" target="internet" id="1172" weight="0.5714285714285714" />
+      <edge source="gps-guided tours" target="mixed reality" id="1173" weight="0.7142857142857143" />
+      <edge source="gps-guided tours" target="ndc" id="1174" weight="0.6000000000000001" />
+      <edge source="gps-guided tours" target="option creator" id="1175" weight="0.6000000000000001" />
+      <edge source="gps-guided tours" target="passenger engagement" id="1176" weight="0.5714285714285714" />
+      <edge source="gps-guided tours" target="pet travel" id="1177" weight="0.6000000000000001" />
+      <edge source="gps-guided tours" target="self-serve" id="1178" weight="0.6000000000000001" />
+      <edge source="gps-guided tours" target="tagforlife" id="1179" weight="0.6000000000000001" />
+      <edge source="gps-guided tours" target="travel documents" id="1180" weight="0.75" />
+      <edge source="hepstar" target="insurtech" id="1181" weight="0.875" />
+      <edge source="hepstar" target="integration" id="1182" weight="0.7000000000000001" />
+      <edge source="hepstar" target="intelligence" id="1183" weight="0.5833333333333334" />
+      <edge source="hepstar" target="loyalty programmes" id="1184" weight="0.875" />
+      <edge source="hepstar" target="managed data infrastructure" id="1185" weight="0.875" />
+      <edge source="hepstar" target="mobile computing" id="1186" weight="0.7000000000000001" />
+      <edge source="hepstar" target="mobile connectivity" id="1187" weight="0.6363636363636365" />
+      <edge source="hepstar" target="non-aeronautical revenue opportunities" id="1188" weight="0.7000000000000001" />
+      <edge source="hepstar" target="oacis" id="1189" weight="0.7777777777777778" />
+      <edge source="hepstar" target="off-airport check-in services" id="1190" weight="0.875" />
+      <edge source="hepstar" target="option creator" id="1191" weight="0.7000000000000001" />
+      <edge source="hepstar" target="personalised product recommendations" id="1192" weight="0.875" />
+      <edge source="hepstar" target="pet travel" id="1193" weight="0.7000000000000001" />
+      <edge source="hepstar" target="planitas" id="1194" weight="0.875" />
+      <edge source="hepstar" target="pnr-level data" id="1195" weight="0.875" />
+      <edge source="hepstar" target="product relevance" id="1196" weight="0.875" />
+      <edge source="hepstar" target="real-time" id="1197" weight="0.6363636363636365" />
+      <edge source="hepstar" target="revenue forecasting" id="1198" weight="0.875" />
+      <edge source="hepstar" target="self-serve" id="1199" weight="0.7000000000000001" />
+      <edge source="hepstar" target="shabstec" id="1200" weight="0.7000000000000001" />
+      <edge source="hepstar" target="simplevisa" id="1201" weight="0.6363636363636365" />
+      <edge source="hepstar" target="technology solutions" id="1202" weight="0.5833333333333334" />
+      <edge source="hepstar" target="travel agency" id="1203" weight="0.875" />
+      <edge source="hepstar" target="travel ancillary products" id="1204" weight="0.875" />
+      <edge source="hepstar" target="traveltech" id="1205" weight="0.875" />
+      <edge source="hepstar" target="tripadmit" id="1206" weight="0.875" />
+      <edge source="hepstar" target="web services" id="1207" weight="0.7000000000000001" />
+      <edge source="hepstar" target="white label" id="1208" weight="0.875" />
+      <edge source="hepstar" target="world travel awards" id="1209" weight="0.875" />
+      <edge source="identity management" target="identity verification" id="1210" weight="0.6000000000000001" />
+      <edge source="identity management" target="mobile enrolment" id="1211" weight="0.5714285714285714" />
+      <edge source="identity management" target="on-time performance" id="1212" weight="0.5714285714285714" />
+      <edge source="identity management" target="software" id="1213" weight="0.5714285714285714" />
+      <edge source="identity management" target="technology integration" id="1214" weight="0.5714285714285714" />
+      <edge source="identity verification" target="private networks" id="1215" weight="0.6000000000000001" />
+      <edge source="insurtech" target="integration" id="1216" weight="0.7000000000000001" />
+      <edge source="insurtech" target="intelligence" id="1217" weight="0.5833333333333334" />
+      <edge source="insurtech" target="loyalty programmes" id="1218" weight="0.875" />
+      <edge source="insurtech" target="managed data infrastructure" id="1219" weight="0.875" />
+      <edge source="insurtech" target="mobile computing" id="1220" weight="0.7000000000000001" />
+      <edge source="insurtech" target="mobile connectivity" id="1221" weight="0.6363636363636365" />
+      <edge source="insurtech" target="non-aeronautical revenue opportunities" id="1222" weight="0.7000000000000001" />
+      <edge source="insurtech" target="oacis" id="1223" weight="0.7777777777777778" />
+      <edge source="insurtech" target="off-airport check-in services" id="1224" weight="0.875" />
+      <edge source="insurtech" target="option creator" id="1225" weight="0.7000000000000001" />
+      <edge source="insurtech" target="personalised product recommendations" id="1226" weight="0.875" />
+      <edge source="insurtech" target="pet travel" id="1227" weight="0.7000000000000001" />
+      <edge source="insurtech" target="planitas" id="1228" weight="0.875" />
+      <edge source="insurtech" target="pnr-level data" id="1229" weight="0.875" />
+      <edge source="insurtech" target="product relevance" id="1230" weight="0.875" />
+      <edge source="insurtech" target="real-time" id="1231" weight="0.6363636363636365" />
+      <edge source="insurtech" target="revenue forecasting" id="1232" weight="0.875" />
+      <edge source="insurtech" target="self-serve" id="1233" weight="0.7000000000000001" />
+      <edge source="insurtech" target="shabstec" id="1234" weight="0.7000000000000001" />
+      <edge source="insurtech" target="simplevisa" id="1235" weight="0.6363636363636365" />
+      <edge source="insurtech" target="technology solutions" id="1236" weight="0.5833333333333334" />
+      <edge source="insurtech" target="travel agency" id="1237" weight="0.875" />
+      <edge source="insurtech" target="travel ancillary products" id="1238" weight="0.875" />
+      <edge source="insurtech" target="traveltech" id="1239" weight="0.875" />
+      <edge source="insurtech" target="tripadmit" id="1240" weight="0.875" />
+      <edge source="insurtech" target="web services" id="1241" weight="0.7000000000000001" />
+      <edge source="insurtech" target="white label" id="1242" weight="0.875" />
+      <edge source="insurtech" target="world travel awards" id="1243" weight="0.875" />
+      <edge source="integration" target="loyalty programmes" id="1244" weight="0.7000000000000001" />
+      <edge source="integration" target="managed data infrastructure" id="1245" weight="0.7000000000000001" />
+      <edge source="integration" target="mobile computing" id="1246" weight="0.56" />
+      <edge source="integration" target="non-aeronautical revenue opportunities" id="1247" weight="0.56" />
+      <edge source="integration" target="oacis" id="1248" weight="0.6222222222222222" />
+      <edge source="integration" target="off-airport check-in services" id="1249" weight="0.7000000000000001" />
+      <edge source="integration" target="option creator" id="1250" weight="0.56" />
+      <edge source="integration" target="personalised product recommendations" id="1251" weight="0.7000000000000001" />
+      <edge source="integration" target="pet travel" id="1252" weight="0.56" />
+      <edge source="integration" target="planitas" id="1253" weight="0.7000000000000001" />
+      <edge source="integration" target="pnr-level data" id="1254" weight="0.7000000000000001" />
+      <edge source="integration" target="product relevance" id="1255" weight="0.7000000000000001" />
+      <edge source="integration" target="revenue forecasting" id="1256" weight="0.7000000000000001" />
+      <edge source="integration" target="self-serve" id="1257" weight="0.56" />
+      <edge source="integration" target="shabstec" id="1258" weight="0.56" />
+      <edge source="integration" target="travel agency" id="1259" weight="0.7000000000000001" />
+      <edge source="integration" target="travel ancillary products" id="1260" weight="0.7000000000000001" />
+      <edge source="integration" target="traveltech" id="1261" weight="0.7000000000000001" />
+      <edge source="integration" target="tripadmit" id="1262" weight="0.7000000000000001" />
+      <edge source="integration" target="web services" id="1263" weight="0.56" />
+      <edge source="integration" target="white label" id="1264" weight="0.7000000000000001" />
+      <edge source="integration" target="world travel awards" id="1265" weight="0.7000000000000001" />
+      <edge source="intelligence" target="loyalty programmes" id="1266" weight="0.5833333333333334" />
+      <edge source="intelligence" target="managed data infrastructure" id="1267" weight="0.5833333333333334" />
+      <edge source="intelligence" target="off-airport check-in services" id="1268" weight="0.5833333333333334" />
+      <edge source="intelligence" target="personalised product recommendations" id="1269" weight="0.5833333333333334" />
+      <edge source="intelligence" target="planitas" id="1270" weight="0.5833333333333334" />
+      <edge source="intelligence" target="pnr-level data" id="1271" weight="0.5833333333333334" />
+      <edge source="intelligence" target="product relevance" id="1272" weight="0.5833333333333334" />
+      <edge source="intelligence" target="revenue forecasting" id="1273" weight="0.5833333333333334" />
+      <edge source="intelligence" target="travel agency" id="1274" weight="0.5833333333333334" />
+      <edge source="intelligence" target="travel ancillary products" id="1275" weight="0.5833333333333334" />
+      <edge source="intelligence" target="traveltech" id="1276" weight="0.5833333333333334" />
+      <edge source="intelligence" target="tripadmit" id="1277" weight="0.5833333333333334" />
+      <edge source="intelligence" target="white label" id="1278" weight="0.5833333333333334" />
+      <edge source="intelligence" target="world travel awards" id="1279" weight="0.5833333333333334" />
+      <edge source="internet" target="mixed reality" id="1280" weight="0.5714285714285714" />
+      <edge source="internet" target="passenger engagement" id="1281" weight="0.5714285714285714" />
+      <edge source="inventory management" target="otp" id="1282" weight="0.6363636363636365" />
+      <edge source="inventory management" target="pet reservation system" id="1283" weight="0.6363636363636365" />
+      <edge source="inventory management" target="regula" id="1284" weight="0.6363636363636365" />
+      <edge source="inventory management" target="satellite communications" id="1285" weight="0.6363636363636365" />
+      <edge source="inventory management" target="snowfall" id="1286" weight="0.6363636363636365" />
+      <edge source="jetblue" target="technology integration" id="1287" weight="0.5714285714285714" />
+      <edge source="jetblue airways" target="mobile commerce" id="1288" weight="0.5714285714285714" />
+      <edge source="jetblue airways" target="sherpa" id="1289" weight="0.5714285714285714" />
+      <edge source="jetblue airways" target="verification" id="1290" weight="0.5714285714285714" />
+      <edge source="jetblue airways" target="waste management" id="1291" weight="0.5714285714285714" />
+      <edge source="jetblue airways" target="wireless connectivity" id="1292" weight="0.5714285714285714" />
+      <edge source="loyalty programmes" target="managed data infrastructure" id="1293" weight="0.875" />
+      <edge source="loyalty programmes" target="mobile computing" id="1294" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="mobile connectivity" id="1295" weight="0.6363636363636365" />
+      <edge source="loyalty programmes" target="non-aeronautical revenue opportunities" id="1296" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="oacis" id="1297" weight="0.7777777777777778" />
+      <edge source="loyalty programmes" target="off-airport check-in services" id="1298" weight="0.875" />
+      <edge source="loyalty programmes" target="option creator" id="1299" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="personalised product recommendations" id="1300" weight="0.875" />
+      <edge source="loyalty programmes" target="pet travel" id="1301" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="planitas" id="1302" weight="0.875" />
+      <edge source="loyalty programmes" target="pnr-level data" id="1303" weight="0.875" />
+      <edge source="loyalty programmes" target="product relevance" id="1304" weight="0.875" />
+      <edge source="loyalty programmes" target="real-time" id="1305" weight="0.6363636363636365" />
+      <edge source="loyalty programmes" target="revenue forecasting" id="1306" weight="0.875" />
+      <edge source="loyalty programmes" target="self-serve" id="1307" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="shabstec" id="1308" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="simplevisa" id="1309" weight="0.6363636363636365" />
+      <edge source="loyalty programmes" target="technology solutions" id="1310" weight="0.5833333333333334" />
+      <edge source="loyalty programmes" target="travel agency" id="1311" weight="0.875" />
+      <edge source="loyalty programmes" target="travel ancillary products" id="1312" weight="0.875" />
+      <edge source="loyalty programmes" target="traveltech" id="1313" weight="0.875" />
+      <edge source="loyalty programmes" target="tripadmit" id="1314" weight="0.875" />
+      <edge source="loyalty programmes" target="web services" id="1315" weight="0.7000000000000001" />
+      <edge source="loyalty programmes" target="white label" id="1316" weight="0.875" />
+      <edge source="loyalty programmes" target="world travel awards" id="1317" weight="0.875" />
+      <edge source="managed data infrastructure" target="mobile computing" id="1318" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="mobile connectivity" id="1319" weight="0.6363636363636365" />
+      <edge source="managed data infrastructure" target="non-aeronautical revenue opportunities" id="1320" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="oacis" id="1321" weight="0.7777777777777778" />
+      <edge source="managed data infrastructure" target="off-airport check-in services" id="1322" weight="0.875" />
+      <edge source="managed data infrastructure" target="option creator" id="1323" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="personalised product recommendations" id="1324" weight="0.875" />
+      <edge source="managed data infrastructure" target="pet travel" id="1325" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="planitas" id="1326" weight="0.875" />
+      <edge source="managed data infrastructure" target="pnr-level data" id="1327" weight="0.875" />
+      <edge source="managed data infrastructure" target="product relevance" id="1328" weight="0.875" />
+      <edge source="managed data infrastructure" target="real-time" id="1329" weight="0.6363636363636365" />
+      <edge source="managed data infrastructure" target="revenue forecasting" id="1330" weight="0.875" />
+      <edge source="managed data infrastructure" target="self-serve" id="1331" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="shabstec" id="1332" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="simplevisa" id="1333" weight="0.6363636363636365" />
+      <edge source="managed data infrastructure" target="technology solutions" id="1334" weight="0.5833333333333334" />
+      <edge source="managed data infrastructure" target="travel agency" id="1335" weight="0.875" />
+      <edge source="managed data infrastructure" target="travel ancillary products" id="1336" weight="0.875" />
+      <edge source="managed data infrastructure" target="traveltech" id="1337" weight="0.875" />
+      <edge source="managed data infrastructure" target="tripadmit" id="1338" weight="0.875" />
+      <edge source="managed data infrastructure" target="web services" id="1339" weight="0.7000000000000001" />
+      <edge source="managed data infrastructure" target="white label" id="1340" weight="0.875" />
+      <edge source="managed data infrastructure" target="world travel awards" id="1341" weight="0.875" />
+      <edge source="metahuman cabin crew" target="private networks" id="1342" weight="0.5714285714285714" />
+      <edge source="metahuman cabin crew" target="qverse" id="1343" weight="1.0" />
+      <edge source="metahuman cabin crew" target="vertical take-off and landing (evtol)" id="1344" weight="0.5714285714285714" />
+      <edge source="mixed reality" target="passenger engagement" id="1345" weight="0.5714285714285714" />
+      <edge source="mobile commerce" target="sherpa" id="1346" weight="0.5714285714285714" />
+      <edge source="mobile commerce" target="verification" id="1347" weight="0.5714285714285714" />
+      <edge source="mobile commerce" target="waste management" id="1348" weight="0.5714285714285714" />
+      <edge source="mobile commerce" target="wireless connectivity" id="1349" weight="0.5714285714285714" />
+      <edge source="mobile computing" target="non-aeronautical revenue opportunities" id="1350" weight="0.56" />
+      <edge source="mobile computing" target="oacis" id="1351" weight="0.6222222222222222" />
+      <edge source="mobile computing" target="off-airport check-in services" id="1352" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="option creator" id="1353" weight="0.56" />
+      <edge source="mobile computing" target="personalised product recommendations" id="1354" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="pet travel" id="1355" weight="0.56" />
+      <edge source="mobile computing" target="planitas" id="1356" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="pnr-level data" id="1357" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="product relevance" id="1358" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="revenue forecasting" id="1359" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="self-serve" id="1360" weight="0.56" />
+      <edge source="mobile computing" target="shabstec" id="1361" weight="0.56" />
+      <edge source="mobile computing" target="travel agency" id="1362" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="travel ancillary products" id="1363" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="traveltech" id="1364" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="tripadmit" id="1365" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="waste management" id="1366" weight="0.6000000000000001" />
+      <edge source="mobile computing" target="web services" id="1367" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="white label" id="1368" weight="0.7000000000000001" />
+      <edge source="mobile computing" target="world travel awards" id="1369" weight="0.7000000000000001" />
+      <edge source="mobile connectivity" target="oacis" id="1370" weight="0.5656565656565656" />
+      <edge source="mobile connectivity" target="off-airport check-in services" id="1371" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="personalised product recommendations" id="1372" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="planitas" id="1373" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="pnr-level data" id="1374" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="product relevance" id="1375" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="revenue forecasting" id="1376" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="travel agency" id="1377" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="travel ancillary products" id="1378" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="traveltech" id="1379" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="tripadmit" id="1380" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="white label" id="1381" weight="0.6363636363636365" />
+      <edge source="mobile connectivity" target="world travel awards" id="1382" weight="0.6363636363636365" />
+      <edge source="mobile enrolment" target="on-time performance" id="1383" weight="0.5714285714285714" />
+      <edge source="mobile enrolment" target="software" id="1384" weight="0.5714285714285714" />
+      <edge source="mobile enrolment" target="tagforlife" id="1385" weight="0.6000000000000001" />
+      <edge source="mobile shopping" target="otp" id="1386" weight="0.65625" />
+      <edge source="mobile shopping" target="pet reservation system" id="1387" weight="0.65625" />
+      <edge source="mobile shopping" target="regula" id="1388" weight="0.65625" />
+      <edge source="mobile shopping" target="satellite communications" id="1389" weight="0.65625" />
+      <edge source="mobile shopping" target="self-boarding" id="1390" weight="0.65625" />
+      <edge source="mobile shopping" target="sherpa" id="1391" weight="0.75" />
+      <edge source="mobile shopping" target="snowfall" id="1392" weight="0.65625" />
+      <edge source="mobile shopping" target="wireless connectivity" id="1393" weight="0.75" />
+      <edge source="ndc" target="nfticket" id="1394" weight="0.6125" />
+      <edge source="non-aeronautical revenue opportunities" target="oacis" id="1395" weight="0.6222222222222222" />
+      <edge source="non-aeronautical revenue opportunities" target="off-airport check-in services" id="1396" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="option creator" id="1397" weight="0.56" />
+      <edge source="non-aeronautical revenue opportunities" target="personalised product recommendations" id="1398" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="pet travel" id="1399" weight="0.56" />
+      <edge source="non-aeronautical revenue opportunities" target="planitas" id="1400" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="pnr-level data" id="1401" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="product relevance" id="1402" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="revenue forecasting" id="1403" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="self-serve" id="1404" weight="0.56" />
+      <edge source="non-aeronautical revenue opportunities" target="shabstec" id="1405" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="technology solutions" id="1406" weight="0.5833333333333335" />
+      <edge source="non-aeronautical revenue opportunities" target="travel agency" id="1407" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="travel ancillary products" id="1408" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="traveltech" id="1409" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="tripadmit" id="1410" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="web services" id="1411" weight="0.56" />
+      <edge source="non-aeronautical revenue opportunities" target="white label" id="1412" weight="0.7000000000000001" />
+      <edge source="non-aeronautical revenue opportunities" target="world travel awards" id="1413" weight="0.7000000000000001" />
+      <edge source="oacis" target="off-airport check-in services" id="1414" weight="0.7777777777777778" />
+      <edge source="oacis" target="option creator" id="1415" weight="0.6222222222222222" />
+      <edge source="oacis" target="personalised product recommendations" id="1416" weight="0.7777777777777778" />
+      <edge source="oacis" target="pet travel" id="1417" weight="0.6222222222222222" />
+      <edge source="oacis" target="planitas" id="1418" weight="0.7777777777777778" />
+      <edge source="oacis" target="pnr-level data" id="1419" weight="0.7777777777777778" />
+      <edge source="oacis" target="product relevance" id="1420" weight="0.7777777777777778" />
+      <edge source="oacis" target="real-time" id="1421" weight="0.5656565656565657" />
+      <edge source="oacis" target="revenue forecasting" id="1422" weight="0.7777777777777778" />
+      <edge source="oacis" target="self-serve" id="1423" weight="0.6222222222222222" />
+      <edge source="oacis" target="shabstec" id="1424" weight="0.6222222222222222" />
+      <edge source="oacis" target="simplevisa" id="1425" weight="0.5656565656565657" />
+      <edge source="oacis" target="travel agency" id="1426" weight="0.7777777777777778" />
+      <edge source="oacis" target="travel ancillary products" id="1427" weight="0.7777777777777778" />
+      <edge source="oacis" target="traveltech" id="1428" weight="0.7777777777777778" />
+      <edge source="oacis" target="tripadmit" id="1429" weight="0.7777777777777778" />
+      <edge source="oacis" target="web services" id="1430" weight="0.6222222222222222" />
+      <edge source="oacis" target="white label" id="1431" weight="0.7777777777777778" />
+      <edge source="oacis" target="world travel awards" id="1432" weight="0.7777777777777778" />
+      <edge source="off-airport check-in services" target="option creator" id="1433" weight="0.7000000000000001" />
+      <edge source="off-airport check-in services" target="personalised product recommendations" id="1434" weight="0.875" />
+      <edge source="off-airport check-in services" target="pet travel" id="1435" weight="0.7000000000000001" />
+      <edge source="off-airport check-in services" target="planitas" id="1436" weight="0.875" />
+      <edge source="off-airport check-in services" target="pnr-level data" id="1437" weight="0.875" />
+      <edge source="off-airport check-in services" target="product relevance" id="1438" weight="0.875" />
+      <edge source="off-airport check-in services" target="real-time" id="1439" weight="0.6363636363636365" />
+      <edge source="off-airport check-in services" target="revenue forecasting" id="1440" weight="0.875" />
+      <edge source="off-airport check-in services" target="self-serve" id="1441" weight="0.7000000000000001" />
+      <edge source="off-airport check-in services" target="shabstec" id="1442" weight="0.7000000000000001" />
+      <edge source="off-airport check-in services" target="simplevisa" id="1443" weight="0.6363636363636365" />
+      <edge source="off-airport check-in services" target="technology solutions" id="1444" weight="0.5833333333333334" />
+      <edge source="off-airport check-in services" target="travel agency" id="1445" weight="0.875" />
+      <edge source="off-airport check-in services" target="travel ancillary products" id="1446" weight="0.875" />
+      <edge source="off-airport check-in services" target="traveltech" id="1447" weight="0.875" />
+      <edge source="off-airport check-in services" target="tripadmit" id="1448" weight="0.875" />
+      <edge source="off-airport check-in services" target="web services" id="1449" weight="0.7000000000000001" />
+      <edge source="off-airport check-in services" target="white label" id="1450" weight="0.875" />
+      <edge source="off-airport check-in services" target="world travel awards" id="1451" weight="0.875" />
+      <edge source="on-time performance" target="software" id="1452" weight="0.5714285714285714" />
+      <edge source="option creator" target="personalised product recommendations" id="1453" weight="0.7000000000000001" />
+      <edge source="option creator" target="pet travel" id="1454" weight="0.7000000000000001" />
+      <edge source="option creator" target="planitas" id="1455" weight="0.7000000000000001" />
+      <edge source="option creator" target="pnr-level data" id="1456" weight="0.7000000000000001" />
+      <edge source="option creator" target="product relevance" id="1457" weight="0.7000000000000001" />
+      <edge source="option creator" target="revenue forecasting" id="1458" weight="0.7000000000000001" />
+      <edge source="option creator" target="self-serve" id="1459" weight="0.7000000000000001" />
+      <edge source="option creator" target="shabstec" id="1460" weight="0.56" />
+      <edge source="option creator" target="sherpa" id="1461" weight="0.6000000000000001" />
+      <edge source="option creator" target="technology solutions" id="1462" weight="0.5833333333333335" />
+      <edge source="option creator" target="travel agency" id="1463" weight="0.7000000000000001" />
+      <edge source="option creator" target="travel ancillary products" id="1464" weight="0.7000000000000001" />
+      <edge source="option creator" target="traveltech" id="1465" weight="0.7000000000000001" />
+      <edge source="option creator" target="tripadmit" id="1466" weight="0.7000000000000001" />
+      <edge source="option creator" target="web services" id="1467" weight="0.56" />
+      <edge source="option creator" target="white label" id="1468" weight="0.7000000000000001" />
+      <edge source="option creator" target="wireless connectivity" id="1469" weight="0.6000000000000001" />
+      <edge source="option creator" target="world travel awards" id="1470" weight="0.7000000000000001" />
+      <edge source="otp" target="pet reservation system" id="1471" weight="0.875" />
+      <edge source="otp" target="regula" id="1472" weight="0.875" />
+      <edge source="otp" target="rfid" id="1473" weight="0.6363636363636365" />
+      <edge source="otp" target="saas" id="1474" weight="0.65625" />
+      <edge source="otp" target="satellite communications" id="1475" weight="0.875" />
+      <edge source="otp" target="self-boarding" id="1476" weight="0.65625" />
+      <edge source="otp" target="sherpa" id="1477" weight="0.75" />
+      <edge source="otp" target="snowfall" id="1478" weight="0.875" />
+      <edge source="otp" target="technology solutions" id="1479" weight="0.5833333333333334" />
+      <edge source="otp" target="ubizense" id="1480" weight="0.65625" />
+      <edge source="otp" target="wireless connectivity" id="1481" weight="0.75" />
+      <edge source="passenger engagement" target="tagforlife" id="1482" weight="0.6000000000000001" />
+      <edge source="personalised product recommendations" target="pet travel" id="1483" weight="0.7000000000000001" />
+      <edge source="personalised product recommendations" target="planitas" id="1484" weight="0.875" />
+      <edge source="personalised product recommendations" target="pnr-level data" id="1485" weight="0.875" />
+      <edge source="personalised product recommendations" target="product relevance" id="1486" weight="0.875" />
+      <edge source="personalised product recommendations" target="real-time" id="1487" weight="0.6363636363636365" />
+      <edge source="personalised product recommendations" target="revenue forecasting" id="1488" weight="0.875" />
+      <edge source="personalised product recommendations" target="self-serve" id="1489" weight="0.7000000000000001" />
+      <edge source="personalised product recommendations" target="shabstec" id="1490" weight="0.7000000000000001" />
+      <edge source="personalised product recommendations" target="simplevisa" id="1491" weight="0.6363636363636365" />
+      <edge source="personalised product recommendations" target="technology solutions" id="1492" weight="0.5833333333333334" />
+      <edge source="personalised product recommendations" target="travel agency" id="1493" weight="0.875" />
+      <edge source="personalised product recommendations" target="travel ancillary products" id="1494" weight="0.875" />
+      <edge source="personalised product recommendations" target="traveltech" id="1495" weight="0.875" />
+      <edge source="personalised product recommendations" target="tripadmit" id="1496" weight="0.875" />
+      <edge source="personalised product recommendations" target="web services" id="1497" weight="0.7000000000000001" />
+      <edge source="personalised product recommendations" target="white label" id="1498" weight="0.875" />
+      <edge source="personalised product recommendations" target="world travel awards" id="1499" weight="0.875" />
+      <edge source="pet reservation system" target="regula" id="1500" weight="0.875" />
+      <edge source="pet reservation system" target="rfid" id="1501" weight="0.6363636363636365" />
+      <edge source="pet reservation system" target="saas" id="1502" weight="0.65625" />
+      <edge source="pet reservation system" target="satellite communications" id="1503" weight="0.875" />
+      <edge source="pet reservation system" target="self-boarding" id="1504" weight="0.65625" />
+      <edge source="pet reservation system" target="sherpa" id="1505" weight="0.75" />
+      <edge source="pet reservation system" target="snowfall" id="1506" weight="0.875" />
+      <edge source="pet reservation system" target="technology solutions" id="1507" weight="0.5833333333333334" />
+      <edge source="pet reservation system" target="ubizense" id="1508" weight="0.65625" />
+      <edge source="pet reservation system" target="wireless connectivity" id="1509" weight="0.75" />
+      <edge source="pet travel" target="planitas" id="1510" weight="0.7000000000000001" />
+      <edge source="pet travel" target="pnr-level data" id="1511" weight="0.7000000000000001" />
+      <edge source="pet travel" target="product relevance" id="1512" weight="0.7000000000000001" />
+      <edge source="pet travel" target="revenue forecasting" id="1513" weight="0.7000000000000001" />
+      <edge source="pet travel" target="self-serve" id="1514" weight="0.7000000000000001" />
+      <edge source="pet travel" target="shabstec" id="1515" weight="0.56" />
+      <edge source="pet travel" target="sherpa" id="1516" weight="0.6000000000000001" />
+      <edge source="pet travel" target="technology solutions" id="1517" weight="0.5833333333333335" />
+      <edge source="pet travel" target="travel agency" id="1518" weight="0.7000000000000001" />
+      <edge source="pet travel" target="travel ancillary products" id="1519" weight="0.7000000000000001" />
+      <edge source="pet travel" target="traveltech" id="1520" weight="0.7000000000000001" />
+      <edge source="pet travel" target="tripadmit" id="1521" weight="0.7000000000000001" />
+      <edge source="pet travel" target="web services" id="1522" weight="0.56" />
+      <edge source="pet travel" target="white label" id="1523" weight="0.7000000000000001" />
+      <edge source="pet travel" target="wireless connectivity" id="1524" weight="0.6000000000000001" />
+      <edge source="pet travel" target="world travel awards" id="1525" weight="0.7000000000000001" />
+      <edge source="planitas" target="pnr-level data" id="1526" weight="0.875" />
+      <edge source="planitas" target="product relevance" id="1527" weight="0.875" />
+      <edge source="planitas" target="real-time" id="1528" weight="0.6363636363636365" />
+      <edge source="planitas" target="revenue forecasting" id="1529" weight="0.875" />
+      <edge source="planitas" target="self-serve" id="1530" weight="0.7000000000000001" />
+      <edge source="planitas" target="shabstec" id="1531" weight="0.7000000000000001" />
+      <edge source="planitas" target="simplevisa" id="1532" weight="0.6363636363636365" />
+      <edge source="planitas" target="technology solutions" id="1533" weight="0.5833333333333334" />
+      <edge source="planitas" target="travel agency" id="1534" weight="0.875" />
+      <edge source="planitas" target="travel ancillary products" id="1535" weight="0.875" />
+      <edge source="planitas" target="traveltech" id="1536" weight="0.875" />
+      <edge source="planitas" target="tripadmit" id="1537" weight="0.875" />
+      <edge source="planitas" target="web services" id="1538" weight="0.7000000000000001" />
+      <edge source="planitas" target="white label" id="1539" weight="0.875" />
+      <edge source="planitas" target="world travel awards" id="1540" weight="0.875" />
+      <edge source="plaza premium lounge" target="waste management" id="1541" weight="0.6000000000000001" />
+      <edge source="pnr-level data" target="product relevance" id="1542" weight="0.875" />
+      <edge source="pnr-level data" target="real-time" id="1543" weight="0.6363636363636365" />
+      <edge source="pnr-level data" target="revenue forecasting" id="1544" weight="0.875" />
+      <edge source="pnr-level data" target="self-serve" id="1545" weight="0.7000000000000001" />
+      <edge source="pnr-level data" target="shabstec" id="1546" weight="0.7000000000000001" />
+      <edge source="pnr-level data" target="simplevisa" id="1547" weight="0.6363636363636365" />
+      <edge source="pnr-level data" target="technology solutions" id="1548" weight="0.5833333333333334" />
+      <edge source="pnr-level data" target="travel agency" id="1549" weight="0.875" />
+      <edge source="pnr-level data" target="travel ancillary products" id="1550" weight="0.875" />
+      <edge source="pnr-level data" target="traveltech" id="1551" weight="0.875" />
+      <edge source="pnr-level data" target="tripadmit" id="1552" weight="0.875" />
+      <edge source="pnr-level data" target="web services" id="1553" weight="0.7000000000000001" />
+      <edge source="pnr-level data" target="white label" id="1554" weight="0.875" />
+      <edge source="pnr-level data" target="world travel awards" id="1555" weight="0.875" />
+      <edge source="private networks" target="qverse" id="1556" weight="0.5714285714285714" />
+      <edge source="private networks" target="self bag drop" id="1557" weight="0.6000000000000001" />
+      <edge source="private networks" target="vertical take-off and landing (evtol)" id="1558" weight="0.5714285714285714" />
+      <edge source="product relevance" target="real-time" id="1559" weight="0.6363636363636365" />
+      <edge source="product relevance" target="revenue forecasting" id="1560" weight="0.875" />
+      <edge source="product relevance" target="self-serve" id="1561" weight="0.7000000000000001" />
+      <edge source="product relevance" target="shabstec" id="1562" weight="0.7000000000000001" />
+      <edge source="product relevance" target="simplevisa" id="1563" weight="0.6363636363636365" />
+      <edge source="product relevance" target="technology solutions" id="1564" weight="0.5833333333333334" />
+      <edge source="product relevance" target="travel agency" id="1565" weight="0.875" />
+      <edge source="product relevance" target="travel ancillary products" id="1566" weight="0.875" />
+      <edge source="product relevance" target="traveltech" id="1567" weight="0.875" />
+      <edge source="product relevance" target="tripadmit" id="1568" weight="0.875" />
+      <edge source="product relevance" target="web services" id="1569" weight="0.7000000000000001" />
+      <edge source="product relevance" target="white label" id="1570" weight="0.875" />
+      <edge source="product relevance" target="world travel awards" id="1571" weight="0.875" />
+      <edge source="qverse" target="vertical take-off and landing (evtol)" id="1572" weight="0.5714285714285714" />
+      <edge source="real-time" target="revenue forecasting" id="1573" weight="0.6363636363636365" />
+      <edge source="real-time" target="travel agency" id="1574" weight="0.6363636363636365" />
+      <edge source="real-time" target="travel ancillary products" id="1575" weight="0.6363636363636365" />
+      <edge source="real-time" target="traveltech" id="1576" weight="0.6363636363636365" />
+      <edge source="real-time" target="tripadmit" id="1577" weight="0.6363636363636365" />
+      <edge source="real-time" target="white label" id="1578" weight="0.6363636363636365" />
+      <edge source="real-time" target="world travel awards" id="1579" weight="0.6363636363636365" />
+      <edge source="regula" target="rfid" id="1580" weight="0.6363636363636365" />
+      <edge source="regula" target="saas" id="1581" weight="0.65625" />
+      <edge source="regula" target="satellite communications" id="1582" weight="0.875" />
+      <edge source="regula" target="self-boarding" id="1583" weight="0.65625" />
+      <edge source="regula" target="sherpa" id="1584" weight="0.75" />
+      <edge source="regula" target="snowfall" id="1585" weight="0.875" />
+      <edge source="regula" target="technology solutions" id="1586" weight="0.5833333333333334" />
+      <edge source="regula" target="ubizense" id="1587" weight="0.65625" />
+      <edge source="regula" target="wireless connectivity" id="1588" weight="0.75" />
+      <edge source="revenue forecasting" target="self-serve" id="1589" weight="0.7000000000000001" />
+      <edge source="revenue forecasting" target="shabstec" id="1590" weight="0.7000000000000001" />
+      <edge source="revenue forecasting" target="simplevisa" id="1591" weight="0.6363636363636365" />
+      <edge source="revenue forecasting" target="technology solutions" id="1592" weight="0.5833333333333334" />
+      <edge source="revenue forecasting" target="travel agency" id="1593" weight="0.875" />
+      <edge source="revenue forecasting" target="travel ancillary products" id="1594" weight="0.875" />
+      <edge source="revenue forecasting" target="traveltech" id="1595" weight="0.875" />
+      <edge source="revenue forecasting" target="tripadmit" id="1596" weight="0.875" />
+      <edge source="revenue forecasting" target="web services" id="1597" weight="0.7000000000000001" />
+      <edge source="revenue forecasting" target="white label" id="1598" weight="0.875" />
+      <edge source="revenue forecasting" target="world travel awards" id="1599" weight="0.875" />
+      <edge source="rfid" target="saas" id="1600" weight="0.6363636363636365" />
+      <edge source="rfid" target="satellite communications" id="1601" weight="0.6363636363636365" />
+      <edge source="rfid" target="self-boarding" id="1602" weight="0.6363636363636365" />
+      <edge source="rfid" target="snowfall" id="1603" weight="0.6363636363636365" />
+      <edge source="saas" target="satellite communications" id="1604" weight="0.65625" />
+      <edge source="saas" target="self-boarding" id="1605" weight="0.65625" />
+      <edge source="saas" target="snowfall" id="1606" weight="0.65625" />
+      <edge source="saas" target="ubizense" id="1607" weight="0.65625" />
+      <edge source="saas" target="waste management" id="1608" weight="0.75" />
+      <edge source="satellite communications" target="self-boarding" id="1609" weight="0.65625" />
+      <edge source="satellite communications" target="sherpa" id="1610" weight="0.75" />
+      <edge source="satellite communications" target="snowfall" id="1611" weight="0.875" />
+      <edge source="satellite communications" target="technology solutions" id="1612" weight="0.5833333333333334" />
+      <edge source="satellite communications" target="ubizense" id="1613" weight="0.65625" />
+      <edge source="satellite communications" target="wireless connectivity" id="1614" weight="0.75" />
+      <edge source="self-boarding" target="sherpa" id="1615" weight="0.75" />
+      <edge source="self-boarding" target="snowfall" id="1616" weight="0.65625" />
+      <edge source="self-boarding" target="waste management" id="1617" weight="0.75" />
+      <edge source="self-boarding" target="wireless connectivity" id="1618" weight="0.75" />
+      <edge source="self-serve" target="shabstec" id="1619" weight="0.56" />
+      <edge source="self-serve" target="sherpa" id="1620" weight="0.6000000000000001" />
+      <edge source="self-serve" target="technology solutions" id="1621" weight="0.5833333333333335" />
+      <edge source="self-serve" target="travel agency" id="1622" weight="0.7000000000000001" />
+      <edge source="self-serve" target="travel ancillary products" id="1623" weight="0.7000000000000001" />
+      <edge source="self-serve" target="traveltech" id="1624" weight="0.7000000000000001" />
+      <edge source="self-serve" target="tripadmit" id="1625" weight="0.7000000000000001" />
+      <edge source="self-serve" target="web services" id="1626" weight="0.56" />
+      <edge source="self-serve" target="white label" id="1627" weight="0.7000000000000001" />
+      <edge source="self-serve" target="wireless connectivity" id="1628" weight="0.6000000000000001" />
+      <edge source="self-serve" target="world travel awards" id="1629" weight="0.7000000000000001" />
+      <edge source="shabstec" target="technology solutions" id="1630" weight="0.5833333333333335" />
+      <edge source="shabstec" target="travel agency" id="1631" weight="0.7000000000000001" />
+      <edge source="shabstec" target="travel ancillary products" id="1632" weight="0.7000000000000001" />
+      <edge source="shabstec" target="traveltech" id="1633" weight="0.7000000000000001" />
+      <edge source="shabstec" target="tripadmit" id="1634" weight="0.7000000000000001" />
+      <edge source="shabstec" target="web services" id="1635" weight="0.56" />
+      <edge source="shabstec" target="white label" id="1636" weight="0.7000000000000001" />
+      <edge source="shabstec" target="world travel awards" id="1637" weight="0.7000000000000001" />
+      <edge source="sherpa" target="snowfall" id="1638" weight="0.75" />
+      <edge source="sherpa" target="verification" id="1639" weight="0.5714285714285714" />
+      <edge source="sherpa" target="waste management" id="1640" weight="0.5714285714285714" />
+      <edge source="sherpa" target="wireless connectivity" id="1641" weight="0.8571428571428572" />
+      <edge source="simplevisa" target="travel agency" id="1642" weight="0.6363636363636365" />
+      <edge source="simplevisa" target="travel ancillary products" id="1643" weight="0.6363636363636365" />
+      <edge source="simplevisa" target="traveltech" id="1644" weight="0.6363636363636365" />
+      <edge source="simplevisa" target="tripadmit" id="1645" weight="0.6363636363636365" />
+      <edge source="simplevisa" target="white label" id="1646" weight="0.6363636363636365" />
+      <edge source="simplevisa" target="world travel awards" id="1647" weight="0.6363636363636365" />
+      <edge source="snowfall" target="technology solutions" id="1648" weight="0.5833333333333334" />
+      <edge source="snowfall" target="ubizense" id="1649" weight="0.65625" />
+      <edge source="snowfall" target="wireless connectivity" id="1650" weight="0.75" />
+      <edge source="technology solutions" target="travel agency" id="1651" weight="0.5833333333333334" />
+      <edge source="technology solutions" target="travel ancillary products" id="1652" weight="0.5833333333333334" />
+      <edge source="technology solutions" target="traveltech" id="1653" weight="0.5833333333333334" />
+      <edge source="technology solutions" target="tripadmit" id="1654" weight="0.5833333333333334" />
+      <edge source="technology solutions" target="white label" id="1655" weight="0.5833333333333334" />
+      <edge source="technology solutions" target="world travel awards" id="1656" weight="0.5833333333333334" />
+      <edge source="travel agency" target="travel ancillary products" id="1657" weight="0.875" />
+      <edge source="travel agency" target="traveltech" id="1658" weight="0.875" />
+      <edge source="travel agency" target="tripadmit" id="1659" weight="0.875" />
+      <edge source="travel agency" target="web services" id="1660" weight="0.7000000000000001" />
+      <edge source="travel agency" target="white label" id="1661" weight="0.875" />
+      <edge source="travel agency" target="world travel awards" id="1662" weight="0.875" />
+      <edge source="travel ancillary products" target="traveltech" id="1663" weight="0.875" />
+      <edge source="travel ancillary products" target="tripadmit" id="1664" weight="0.875" />
+      <edge source="travel ancillary products" target="web services" id="1665" weight="0.7000000000000001" />
+      <edge source="travel ancillary products" target="white label" id="1666" weight="0.875" />
+      <edge source="travel ancillary products" target="world travel awards" id="1667" weight="0.875" />
+      <edge source="traveltech" target="tripadmit" id="1668" weight="0.875" />
+      <edge source="traveltech" target="web services" id="1669" weight="0.7000000000000001" />
+      <edge source="traveltech" target="white label" id="1670" weight="0.875" />
+      <edge source="traveltech" target="world travel awards" id="1671" weight="0.875" />
+      <edge source="travelx" target="waste management" id="1672" weight="0.6000000000000001" />
+      <edge source="tripadmit" target="web services" id="1673" weight="0.7000000000000001" />
+      <edge source="tripadmit" target="white label" id="1674" weight="0.875" />
+      <edge source="tripadmit" target="world travel awards" id="1675" weight="0.875" />
+      <edge source="verification" target="waste management" id="1676" weight="0.5714285714285714" />
+      <edge source="verification" target="wireless connectivity" id="1677" weight="0.5714285714285714" />
+      <edge source="waste management" target="web services" id="1678" weight="0.6000000000000001" />
+      <edge source="waste management" target="wireless connectivity" id="1679" weight="0.5714285714285714" />
+      <edge source="web services" target="white label" id="1680" weight="0.7000000000000001" />
+      <edge source="web services" target="world travel awards" id="1681" weight="0.7000000000000001" />
+      <edge source="white label" target="world travel awards" id="1682" weight="0.875" />
+    </edges>
+  </graph>
+</gexf>
